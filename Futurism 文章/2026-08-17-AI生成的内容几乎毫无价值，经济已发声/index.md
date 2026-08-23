@@ -24,22 +24,3 @@ status: 已生成
 。
 在这个充满变数的时代，唯一不变的是变革本身。
 
----
-
-## 微信 HTML
-
-```html
-<section class="article-content">
-  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
-    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">经济已经明确表态：AI生成的东西基本没价值了！</p>
-  </section>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">1、这意味着什么？</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">经济通过各种数据和市场反馈告诉我们，那些由AI生成的产品或内容，在市场上几乎没[K
-有多少价值。这引发了人们的深思：未来的内容创作会不会被彻底颠覆？</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">2、市场反应如何？</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">在刚刚过去的季度里，多款宣称使用AI技术生成的商品销量惨淡，甚至低于预期的十分[K
-之一。这一现象让业内专家和投资者都开始重新审视AI技术在内容生产领域的实际价值[K
-。
-在这个充满变数的时代，唯一不变的是变革本身。</p>
-</section>
-```

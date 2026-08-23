@@ -32,28 +32,6 @@ status: 已生成
 
 荒诞的视频没有成真，可它嘲讽的那套治理逻辑，却结出了真实的苦果。
 
----
-
-## 微信 HTML
-
-```html
-<section class="article-content">
-  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
-    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">去年特朗普曾发过一段 AI 生成的视频，画面里他驾驶战机向抗议者倾泻粪便。如今一场席卷全美的环孢子虫腹泻疫情，让这个荒诞预言意外"应验"。</p>
-  </section>
-  <p style="line-height: 3; margin-bottom: 24px;">谁能想到，一条被当作笑话的 AI 恶搞视频，最后竟成了某种诡异的"神预言"。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">一、一段荒诞的"预言"视频</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">去年十月，时任美国总统的特朗普在社交平台上发了一段 AI 生成的视频：画面里他亲自驾驶战机，向街头抗议的民众头上狂倒粪便。当时几乎所有人都把这当成疯癫的表演——总统发这种东西本身就够离谱了，更没人把它当真。</p>
-  <p style="line-height: 3; margin-bottom: 24px;">那段视频确实暴露了这位三军统帅对民众抗议权利的敌意，但谁会当真以为总统真要往美国人身上"投泻"？我们都没当回事。结果，事实证明我们错得离谱。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">二、现实比恶搞更离谱</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">今年七月，美国真的遭遇了一波"爆炸性腹泻"的袭击。罪魁是一种叫环孢子虫的寄生虫，通过被人类粪便污染的食物和水传播。截至本周，美国疾控中心通报，疫情已蔓延到至少 47 个州，疑似病例攀升到 2.4 万例以上，密歇根州更有两名本身患有基础疾病的感染者不幸身亡。</p>
-  <p style="line-height: 3; margin-bottom: 24px;">疫情源头被锁定在受污染的生菜上——过去一个月，不少美国人连沙拉都不敢碰了。与疫情紧密相关的 Taylor Farms 公司被迫紧急召回产品。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">三、削减人手埋下的祸根</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">当然，这场腹泻灾难并不是从天而降、由某个戴皇冠的八旬总统开着战机投下的。但它暴露出的问题同样刺眼：环孢子虫疫情，恰恰揭开了特朗普政府大刀阔斧裁撤联邦雇员的后果。</p>
-  <p style="line-height: 3; margin-bottom: 24px;">就在去年，负责识别寄生虫暴发的实验室从 11 人被砍到只剩 3 人；而在亿万富翁马斯克推动下被迅速 dismantle 的援外机构 USAID，也牵连其中。当疫情真正来袭，被掏空的公共卫生体系根本无力招架。</p>
-  <p style="line-height: 3; margin-bottom: 24px;">荒诞的视频没有成真，可它嘲讽的那套治理逻辑，却结出了真实的苦果。</p>
-</section>
-```
 
 ## 封面图
 

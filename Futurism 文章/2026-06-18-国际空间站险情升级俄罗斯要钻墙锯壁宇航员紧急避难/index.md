@@ -40,15 +40,6 @@ PrK模块将被退役封存，不再加压。但多年的漏气之争、以及�
 
 他这句话，像是在幽暗太空中投下的一道影子。
 
----
-
-## 微信 HTML
-
-```html
-<section class="article-content">
-...
-</section>
-```
 
 ## 封面图
 

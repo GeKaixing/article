@@ -32,27 +32,6 @@ Meta 高管曾坚称，一项争议十足的面部识别功能"根本不存在"�
 
 Meta 似乎在玩文字游戏——只要消费者用不上，就算"不存在"，哪怕代码已经随多次更新悄悄装进了用户手中的产品。（功能曝光后，Meta 已悄然删除了相关代码。）与此同时，Meta 还深陷另一桩消费者诉讼：瑞典媒体调查发现，公司将智能眼镜佩戴者的录音转交给了人工标注员，尽管曾承诺录音只存在用户设备上。"为隐私而设计、由你掌控"——眼镜官网的这句标语，如今读来格外刺耳。
 
----
-
-## 微信 HTML
-
-```html
-<section class="article-content">
-  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
-    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">Meta 高管先是在社交平台怒斥媒体"造谣"，坚称智能眼镜的面部识别功能"根本不存在"；几周后，另一位高管却在播客里把它讲得清清楚楚。</p>
-  </section>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">一、一个被"否认"的功能</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">Meta 高管曾坚称，一项争议十足的面部识别功能"根本不存在"。可几周之后，他们却在公开场合把它讲得相当详细。</p>
-  <p style="line-height: 3; margin-bottom: 24px;">今年六月，《连线》披露 Meta 悄悄在其"AI 眼镜"中植入了尚未发布的面部识别技术。这项被内部称作 NameTag 的功能虽未对消费者开放，却被设计成把眼镜佩戴者遇到的面孔，转换为独特的生物特征"脸印"，并与手机中存储的脸印逐一比对。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">二、高管的"愤怒"与"拆台"</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">《连线》的报道显然激怒了 Meta 高管层。公司发言人、传播副总裁安迪·斯通在 X 上痛斥报道"缺乏智识诚信""是蹭热度的倡导式标题党"，并一口咬定 NameTag 完全不存在："我们怎么回答？这功能根本不存在！"</p>
-  <p style="line-height: 3; margin-bottom: 24px;">首席技术官安德鲁·"博兹"·博斯沃思也跳出来附和，称报道"极具误导性""绝对不诚实"。然而，正是这位博斯沃思，在上周播出的播客采访中把 NameTag 说得明明白白——这与他同事的说法直接矛盾。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">三、它到底能做什么，又藏着什么隐患</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">博斯沃思对播客主持人解释，NameTag 的数据会"在本地加密到你的设备"，用来记录佩戴者当面结识的人；他强调这些数据不会存进中央数据库，并举例说它能帮人化解"鸡尾酒会式尴尬"——认出眼前这个人，却一时想不起名字。</p>
-  <p style="line-height: 3; margin-bottom: 24px;">但他也承认，这类功能在伊利诺伊、得州等州很可能涉嫌违法，必须"让人用得安心"才行。需要厘清的是：Wired 从未说过 Meta 在建"中央脸库"，报道也反复强调该功能尚未发布。</p>
-  <p style="line-height: 3; margin-bottom: 24px;">Meta 似乎在玩文字游戏——只要消费者用不上，就算"不存在"，哪怕代码已经随多次更新悄悄装进了用户手中的产品。与此同时，Meta 还深陷另一桩消费者诉讼：瑞典媒体调查发现，公司将智能眼镜佩戴者的录音转交给了人工标注员，尽管曾承诺录音只存在用户设备上。"为隐私而设计、由你掌控"——眼镜官网的这句标语，如今读来格外刺耳。</p>
-</section>
-```
 
 ## 封面图
 

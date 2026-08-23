@@ -30,26 +30,3 @@ status: 已生成
 论是加强个人防护还是寻求医院的支持与帮助，我们都不能掉以轻心。希望每个人都能[K
 平安度夏，远离高温的侵袭！
 
----
-
-## 微信 HTML
-
-```html
-<section class="article-content">
-  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
-    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">高温来袭，医院也“中暑”了吗？</p>
-  </section>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">1、炎炎夏日下的危机</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">最近，多地气温破纪录飙升，让不少医院陷入了前所未有的困境。手术室内的温度持续[K
-走高，原本应该在空调控制下的室内环境却成了热浪的温床。一些医院不得不紧急取消[K
-了多场手术，以避免高温带来的风险。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">2、医护人员“中暑”</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">更令人担忧的是，医护人员也纷纷中招，出现大量中暑症状。工作人员在酷热下工作几[K
-个小时后，体力透支严重，甚至有人因体温过高而晕倒。这不仅给医院的正常运作带来[K
-了巨大挑战，也让人们开始重新审视高温天气下的健康防护措施。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">3、高温警告：守护健康从我做起</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">面对如此严峻的情况，每个人都应该提高警惕，采取有效措施应对高温带来的影响。无[K
-论是加强个人防护还是寻求医院的支持与帮助，我们都不能掉以轻心。希望每个人都能[K
-平安度夏，远离高温的侵袭！</p>
-</section>
-```

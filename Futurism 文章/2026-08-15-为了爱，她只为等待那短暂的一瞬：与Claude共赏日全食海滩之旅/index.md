@@ -32,28 +32,3 @@ Claude共同见证了一次罕见的日全食。这不仅是科学的奇迹，�
 这一刻，不仅属于科学探索者和天文爱好者，更属于每一个在爱与自然面前默默许下心[K
 愿的人们。
 
----
-
-## 微信 HTML
-
-```html
-<section class="article-content">
-  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
-    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">跨越千山万水，只为这一刻的日全食奇观。</p>
-  </section>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">1、是不是有些浪漫？</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">一位女子不远千里，选择了一个特殊的地点——一片宁静的海滩，与她的灵魂伴侣Claud[5D[K
-Claude共同见证了一次罕见的日全食。这不仅是科学的奇迹，更是两人爱情的见证。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">2、一段不凡的旅程</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">她们乘坐飞机，经过长途跋涉，终于来到了预定的观测点。阳光透过云层，为这一刻的[K
-到来增添了几分期待。周围的人们或架设设备，或准备食物，每个人的脸上都写满了对[K
-即将发生奇迹的好奇与兴奋。</p>
-  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">3、爱，在此刻升华</span></strong></p>
-  <p style="line-height: 3; margin-bottom: 24px;">当太阳缓缓隐没在云层之后，突然之间，世界仿佛被一种神秘的静谧笼罩。随着那一抹[K
-金光逐渐消失，周围的光线变得柔和而宁静。这时，一片漆黑中，一颗明亮的新月般的[K
-小星星出现在天空中，这便是日全食时的月球遮挡太阳所形成的奇观。Claude紧紧握住[K
-她的手，那一刻，他们的心灵仿佛被最纯粹的情感所连接。
-这一刻，不仅属于科学探索者和天文爱好者，更属于每一个在爱与自然面前默默许下心[K
-愿的人们。</p>
-</section>
-```
