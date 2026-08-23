@@ -57,4 +57,4 @@ status: 已生成
 
 ## 封面图
 
-![[cover.jpg]]
+![封面图](./cover.jpg)
