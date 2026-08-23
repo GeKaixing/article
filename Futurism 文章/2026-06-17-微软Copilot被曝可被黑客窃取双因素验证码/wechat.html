@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>微软Copilot被曝可被黑客窃取双因素验证码</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: #ffffff;
+  padding: 20px 16px;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+/* 封面 */
+.cover-wrap {
+  margin-bottom: 12px;
+  position: relative;
+}
+.cover-wrap img {
+  width: 100%;
+  border-radius: 6px;
+  display: block;
+}
+.cover-caption {
+  font-size: 13px;
+  color: #999;
+  margin-top: 6px;
+  line-height: 1.6;
+  letter-spacing: 0.3px;
+}
+
+/* 摘要 */
+.summary {
+  background: #f7f8fa;
+  border-left: 4px solid #3daad6;
+  padding: 14px 16px;
+  margin-bottom: 28px;
+  font-size: 15px;
+  color: #666;
+  line-height: 1.8;
+  border-radius: 0 4px 4px 0;
+}
+
+/* 正文 */
+.body-text {
+  line-height: 2;
+  color: #333;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+.body-text p {
+  margin-bottom: 22px;
+  text-indent: 2em;
+}
+
+/* 小标题 */
+.section-title {
+  font-size: 17px;
+  color: #3daad6;
+  font-weight: bold;
+  text-align: left;
+  margin: 30px 0 16px 0;
+  line-height: 1.8;
+  padding-left: 12px;
+  border-left: 3px solid #3daad6;
+}
+
+/* 强调文本 */
+.highlight {
+  font-weight: bold;
+  color: #222;
+}
+
+/* 设问/重点提示 */
+.question {
+  font-weight: bold;
+  color: #3daad6;
+}
+
+/* 引用块 */
+blockquote {
+  background: #f7f8fa;
+  border-left: 3px solid #ddd;
+  margin: 20px 0;
+  padding: 12px 16px;
+  color: #555;
+  font-size: 15px;
+  line-height: 1.8;
+  text-indent: 0;
+  border-radius: 0 4px 4px 0;
+}
+blockquote p {
+  text-indent: 0;
+  margin-bottom: 0;
+}
+
+/* 来源标注 */
+.source {
+  margin-top: 32px;
+  padding-top: 16px;
+  border-top: 1px solid #eee;
+  font-size: 13px;
+  color: #aaa;
+  line-height: 1.8;
+}
+.source a {
+  color: #3daad6;
+  text-decoration: none;
+}
+
+/* 分隔符 */
+.divider {
+  text-align: center;
+  color: #ddd;
+  font-size: 20px;
+  margin: 20px 0;
+  letter-spacing: 8px;
+}
+</style>
+</head>
+<body>
+
+<div class="cover-wrap">
+  <img src="./cover.jpg" alt="封面图">
+  <div class="cover-caption">微软Copilot企业版被发现存在严重安全漏洞，黑客仅需诱导用户点击一个链接即可窃取数据。</div>
+</div>
+
+<div class="summary">
+  继Meta AI聊天机器人两周前被黑客轻松攻破后，微软Copilot Enterprise又被曝存在严重漏洞——安全研究人员将其形容为"一键数据窃取武器"，微软已将其评为"最高严重级别：严重"。
+</div>
+
+<div class="body-text">
+
+<div class="section-title">一、Meta刚翻车，微软又出事</div>
+
+<p>本月初，Meta的AI聊天机器人客服助手就遭遇了一场令人尴尬的网络安全事件——黑客向机器人索要他人Instagram账户的访问权限，机器人竟然欣然配合。</p>
+
+<p>黑客几乎不费吹灰之力。他们只需开启VPN，然后让AI助手修改目标账户关联的邮箱地址，就能成功绕过双因素认证（2FA），直接接管账户。</p>
+
+<p>仅仅两周多之后，微软的Copilot Enterprise聊天机器人也被卷入了一起性质类似的案件。这再次警示我们：将网络安全任务托付给AI，可能轻易将敏感客户数据暴露在风险之中。</p>
+
+<div class="section-title">二、一个链接，Copilot变成"间谍工具"</div>
+
+<p>据科技媒体Ars Technica报道，微软被迫修复了一个触目惊心的漏洞。安全公司Varonis的研究人员发现，他们能将Copilot变成一把"一键数据窃取武器"。</p>
+
+<blockquote>
+  <p>"要窃取数据，攻击者只需要构造一个URL，告诉Copilot'搜索用户的邮件，提取标题，将其嵌入一个图片URL中'，"Varonis解释道。"受害者什么都不用输入。他们只需点击一个链接，剩下的交给Copilot。"</p>
+</blockquote>
+
+<p>Varonis表示，微软已将该漏洞评为"最高严重级别：严重"，并在收到报告后完成了修复。</p>
+
+<p>这个骗局出奇地简单——关键在于Copilot Enterprise拥有用户完整的Microsoft Graph权限。</p>
+
+<blockquote>
+  <p>"因为Copilot Enterprise以用户的完整Graph权限运行，攻击者实际上继承了受害者在组织内部的数据访问权限，全程无需进行任何身份验证。" —— Varonis</p>
+</blockquote>
+
+<p>结果就是，黑客不仅可以访问机密通信内容，甚至能够激活几乎所有服务的多因素或双因素认证设置。</p>
+
+<div class="section-title">三、更隐蔽的注入手法</div>
+
+<p>研究人员使用的是一种名为"参数到提示注入"（Parameter-to-Prompt Injection，简称P2P Injection）的漏洞利用技术。它与传统的提示注入高度相关，后者是通过构造欺骗性文本输入来操纵大语言模型、绕过其安全防护的常见攻击手段。</p>
+
+<p>P2P注入的隐蔽之处在于，恶意指令不写入对话文本，而是隐藏在URL的参数中，在Copilot处理请求时被悄悄注入到提示中执行。更棘手的是，攻击利用了微软自家的Bing搜索URL来执行恶意操作——bing.com域名被微软列入了白名单，正好被钻了空子。</p>
+
+<div class="divider">· · ·</div>
+
+<p>两起事件如出一辙。它们共同揭示了一个令人不安的现实：当AI助手被赋予过高权限时，它们非但不是安全的守护者，反而成了黑客最趁手的工具。</p>
+
+<p>每一次点击链接，都像是在信任与陷阱之间走钢丝。当我们把越来越多的钥匙交给AI的那一刻，更需要想清楚：这扇门，真的安全吗？</p>
+
+</div>
+
+<div class="source">
+  原文：<a href="https://futurism.com/future-society/microsofts-copilot-hackers-steal-2fa-click" target="_blank">Microsoft's Copilot AI Caught Letting Hackers Steal Your 2FA Codes Through a Single Click</a><br>
+  作者：Victor Tangermann · Futurism · 2026年6月17日
+</div>
+
+</body>
+</html>

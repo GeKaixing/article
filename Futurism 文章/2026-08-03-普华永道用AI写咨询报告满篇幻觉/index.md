@@ -1,0 +1,71 @@
+---
+date: 2026-08-03
+source: Futurism
+source_url: https://futurism.com/artificial-intelligence/top-consulting-group-pwc-ai-report-bizarre-hallucinations
+creator: Victor Tangermann
+status: 已生成
+---
+
+# 全球四大会计所用AI写咨询报告，结果满篇都是AI幻觉
+
+> 四大会计所之一的普华永道，用AI代写"思想领导力"报告，却被发现报告中充斥着虚构的引用、编造的框架和离谱的格式错误。
+
+![封面图](./cover.jpg)普华永道被曝使用AI撰写咨询报告，内容满是幻觉
+
+## 一份关于AI的报告，却被AI坑了
+
+全球四大会计师事务所之一的普华永道（PwC），最近被逮了个正着——他们发布的几份关于AI的"思想领导力"报告，竟然全是AI生成的，而且质量低劣到令人发指。
+
+据《金融时报》报道，普华永道在2024年至2026年间发布的四份报告，原本是为中东地区的合作伙伴争取咨询业务。然而，AI检测公司GPTZero的调查人员发现，这些报告简直是一团糟，充满了"AI幻觉式的引用、编造的声明，以及让人看不懂的行文和排版"。
+
+这些报告中出现了"与引用来源无关、甚至与来源相矛盾的声明"。比如，一份2025年的报告里有一整段内容介绍了一个叫"Citizen Pulse"的框架，声称它正被世界各国政府采用。但GPTZero的调查发现，这个框架根本不存在，完全是AI凭空编造的，连引用来源也是假的。
+
+## 四大会计所集体"翻车"，这不是个案
+
+普华永道的丑闻并非孤例。就在上个月，另一家四大会计所毕马威（KPMG）也被曝光在一份关于AI代理整合的报告中，包含大量AI幻觉。
+
+更讽刺的是，普华永道这几份"水货"报告的主题恰恰就是"AI代理"——包括一份指导政府如何提升自动驾驶公共服务的指南。用AI去写一份关于AI的报告，结果报告本身就是AI幻觉的活教材，这画面实在太讽刺了。
+
+## 引用来源离谱到什么程度？
+
+这些报告的荒诞程度让人哭笑不得。其中一份报告的脚注里，竟然引用了一个Medium上只有280个粉丝的少年博主，作为摩根大通AI代理计划的来源。
+
+GPTZero的研究员Paul Esau发现，另一份普华永道报告在短短两页内，引用了三个不同的来源，反复论证同一个正确的观点——"人为失误导致了90%的交通事故"。这种操作，用他的话说，"没有任何人类会这么做"。
+
+面对质疑，普华永道的回应更是令人心寒。他们轻描淡写地表示"认真对待研究的准确性"，正在"更新少量支撑引用"，并强调公司"有质量控制流程"——但对责任问题只字不提。
+
+当全球顶级咨询公司都在用AI批量制造"学术垃圾"，我们不禁要问：那些花大价钱购买咨询服务的企业，买到的究竟是洞见，还是AI编造的幻觉？
+
+---
+
+## 微信 HTML
+
+```html
+<section class="article-content">
+  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
+    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">四大会计所之一的普华永道，用AI代写"思想领导力"报告，却被发现报告中充斥着虚构的引用、编造的框架和离谱的格式错误。</p>
+  </section>
+  <p style="line-height: 3; margin-bottom: 24px;">全球四大会计师事务所之一的普华永道（PwC），最近被逮了个正着——他们发布的几份关于AI的"思想领导力"报告，竟然全是AI生成的，而且质量低劣到令人发指。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">据《金融时报》报道，普华永道在2024年至2026年间发布的四份报告，原本是为中东地区的合作伙伴争取咨询业务。然而，AI检测公司GPTZero的调查人员发现，这些报告简直是一团糟，充满了"AI幻觉式的引用、编造的声明，以及让人看不懂的行文和排版"。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">这些报告中出现了"与引用来源无关、甚至与来源相矛盾的声明"。比如，一份2025年的报告里有一整段内容介绍了一个叫"Citizen Pulse"的框架，声称它正被世界各国政府采用。但GPTZero的调查发现，这个框架根本不存在，完全是AI凭空编造的，连引用来源也是假的。</p>
+
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">一、一份关于AI的报告，却被AI坑了</span></strong></p>
+
+  <p style="line-height: 3; margin-bottom: 24px;">普华永道的丑闻并非孤例。就在上个月，另一家四大会计所毕马威（KPMG）也被曝光在一份关于AI代理整合的报告中，包含大量AI幻觉。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">更讽刺的是，普华永道这几份"水货"报告的主题恰恰就是"AI代理"——包括一份指导政府如何提升自动驾驶公共服务的指南。用AI去写一份关于AI的报告，结果报告本身就是AI幻觉的活教材，这画面实在太讽刺了。</p>
+
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">二、四大会计所集体"翻车"，这不是个案</span></strong></p>
+
+  <p style="line-height: 3; margin-bottom: 24px;">这些报告的荒诞程度让人哭笑不得。其中一份报告的脚注里，竟然引用了一个Medium上只有280个粉丝的少年博主，作为摩根大通AI代理计划的来源。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">GPTZero的研究员Paul Esau发现，另一份普华永道报告在短短两页内，引用了三个不同的来源，反复论证同一个正确的观点——"人为失误导致了90%的交通事故"。这种操作，用他的话说，"没有任何人类会这么做"。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">面对质疑，普华永道的回应更是令人心寒。他们轻描淡写地表示"认真对待研究的准确性"，正在"更新少量支撑引用"，并强调公司"有质量控制流程"——但对责任问题只字不提。</p>
+
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">三、引用来源离谱到什么程度？</span></strong></p>
+
+  <p style="line-height: 3; margin-bottom: 24px;">当全球顶级咨询公司都在用AI批量制造"学术垃圾"，我们不禁要问：那些花大价钱购买咨询服务的企业，买到的究竟是洞见，还是AI编造的幻觉？</p>
+</section>
+```
+
+## 封面图
+
+![[cover.jpg]]

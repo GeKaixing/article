@@ -1,0 +1,60 @@
+---
+date: 2026-08-20
+source: Futurism
+source_url: https://futurism.com/future-society/whistleblower-lawsuit-meta-child-safety-mark-zuckerberg-facebook-instagram
+creator: Joe Wilkins
+status: 已生成
+---
+
+# 吹哨人当庭揭穿：扎克伯格在儿童安全问题上，只是装出关心的样子
+
+> 前 Meta 安全工程师在加州庭审中作证，指控公司对平台上伤害儿童的内容长期采取"不问不说"的态度，而扎克伯格本人对此心知肚明。
+
+![封面图](./cover.jpg)加州法庭上，一场针对 Meta 的世纪诉讼正进入白热化，而最刺耳的声音来自公司内部人。
+
+## 一份令人不安的证词
+
+前 Meta 安全工程师阿图罗·贝哈尔站上证人席，向法庭陈述了一个令人不安的事实：Meta 在保护未成年人这件事上，早已形成了一套心照不宣的"不问不说"策略。
+
+据《卫报》报道，贝哈尔在证词中直言，公司高层早就清楚，自家平台正在主动向青少年推送暴力与带有性掠夺色彩的内容，却始终没有真正动手去解决。他曾经的职责，就是定期向 CEO 扎克伯格汇报安全问题——也就是说，最高层对这一切并非不知情。
+
+## Meta 到底在隐瞒什么
+
+贝哈尔透露，尽管 Meta 多次对外承诺 Instagram 和 Facebook"绝不会把利润放在安全之上"，但现实是，高管们对已知的风险心知肚明，却并不着急去修补。
+
+"他（扎克伯格）让我对 Facebook 保护年轻人的承诺，产生了虚假而误导的印象。"贝哈尔在法庭上这样总结自己多年来的感受。这句话，成了整场诉讼中最具杀伤力的一句证词。
+
+## 这不是第一次了
+
+贝哈尔的说法，与多位前 Meta 内部人的爆料不谋而合。去年，前公共政策总监莎拉·温-威廉姆斯出版了一本书，披露公司早在 2017 年就开始琢磨如何把定向广告扩展到未成年人身上。
+
+她回忆，一份给广告主的演示文稿曾公然炫耀：Meta 能精准捕捉用户"毫无价值""不安""没用"等心理脆弱时刻，借机推送广告。更令人咋舌的是，Facebook 甚至会追踪青春期女孩删除自拍的行为，以便在那个瞬间向她们投放美妆广告。
+
+到目前为止，加州检方能否真正让这家科技巨头低头尚未可知。但有一点已经越来越清楚：驱动这家公司最高层的动机，恐怕从来就不像它对外宣称的那么简单。
+
+---
+
+## 微信 HTML
+
+```html
+<section class="article-content">
+  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
+    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">前 Meta 安全工程师在加州庭审中作证，指控公司对平台上伤害儿童的内容长期采取"不问不说"的态度，而扎克伯格本人对此心知肚明。</p>
+  </section>
+  <p style="line-height: 3; margin-bottom: 24px;">加州法庭上，一场针对 Meta 的世纪诉讼正进入白热化，而最刺耳的声音来自公司内部人。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">一、一份令人不安的证词</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">前 Meta 安全工程师阿图罗·贝哈尔站上证人席，向法庭陈述了一个令人不安的事实：Meta 在保护未成年人这件事上，早已形成了一套心照不宣的"不问不说"策略。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">据《卫报》报道，贝哈尔在证词中直言，公司高层早就清楚，自家平台正在主动向青少年推送暴力与带有性掠夺色彩的内容，却始终没有真正动手去解决。他曾经的职责，就是定期向 CEO 扎克伯格汇报安全问题——也就是说，最高层对这一切并非不知情。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">二、Meta 到底在隐瞒什么</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">贝哈尔透露，尽管 Meta 多次对外承诺 Instagram 和 Facebook"绝不会把利润放在安全之上"，但现实是，高管们对已知的风险心知肚明，却并不着急去修补。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">"他（扎克伯格）让我对 Facebook 保护年轻人的承诺，产生了虚假而误导的印象。"贝哈尔在法庭上这样总结自己多年来的感受。这句话，成了整场诉讼中最具杀伤力的一句证词。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">三、这不是第一次了</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">贝哈尔的说法，与多位前 Meta 内部人的爆料不谋而合。去年，前公共政策总监莎拉·温-威廉姆斯出版了一本书，披露公司早在 2017 年就开始琢磨如何把定向广告扩展到未成年人身上。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">她回忆，一份给广告主的演示文稿曾公然炫耀：Meta 能精准捕捉用户"毫无价值""不安""没用"等心理脆弱时刻，借机推送广告。更令人咋舌的是，Facebook 甚至会追踪青春期女孩删除自拍的行为，以便在那个瞬间向她们投放美妆广告。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">到目前为止，加州检方能否真正让这家科技巨头低头尚未可知。但有一点已经越来越清楚：驱动这家公司最高层的动机，恐怕从来就不像它对外宣称的那么简单。</p>
+</section>
+```
+
+## 封面图
+
+![[cover.jpg]]

@@ -1,0 +1,11 @@
+# Obsidian 本地状态(不进版本库)
+.obsidian/
+
+# macOS
+.DS_Store
+
+# 空的未命名 Base 视图(空壳,忽略)
+未命名*.base
+
+# 临时/缓存
+*.tmp

@@ -1,0 +1,84 @@
+---
+date: 2026-06-17
+source: Futurism
+source_url: https://futurism.com/space/wall-street-terrified-spacex-dump
+creator: Frank Landymore
+status: 已上传
+---
+
+# 华尔街恐惧SpaceX投资者抛售股票
+
+> SpaceX的IPO让早期投资者赚得盆满钵满，但华尔街却暗暗担忧：一旦锁定期结束，大量投资者会不会抛售套现，把马斯克的铁杆粉丝留在高位接盘？
+
+## 正文
+
+![封面图](./cover.jpg)SpaceX IPO 让马斯克成为全球首位万亿富翁，但市场正在担心一场抛售浪潮（图片来源：Futurism）
+
+SpaceX的IPO让早期投资者赚得盆满钵满，但有件事让他们寝食难安：一旦大量买家转身变成卖家、抛售SpaceX股票套现离场，最后来接盘的，会不会只剩马斯克最忠诚的粉丝？
+
+至少目前还不用担心——绝大多数投资者都还处于锁定期内。但顶级风投们已经开始未雨绸缪，纷纷出面安抚市场，坚称不会出现大规模抛售。这背后的焦虑，不言自明。
+
+彭博社科技通讯记者Edward Ludlow写道："市场现在面临的赌局是——问题不在于谁想拥有SpaceX，而在于已经拥有它的人，还会不会继续持有。"
+
+## 一、千金在手，谁能不动心？
+
+IPO已经创造了惊人的财富——它让马斯克成为人类历史上第一位万亿富翁，将SpaceX推升为全球最具价值的公司之一，市值一度超过亚马逊。a16z等主要投资方的持股市值已超过100亿美元。谁要是抢先抛售，就能锁定巨额利润。
+
+但马斯克的铁杆支持者坚信他们不会这么做。
+
+## 二、大佬表态：我永远不卖
+
+SpaceX的早期投资者、137 Ventures合伙人Christian Garrett表示："很多人不会卖的。"这家基金自2011年以来从未卖出一股SpaceX股票。
+
+红杉资本的Shaun Maguire更是语出惊人。他在接受彭博电视采访时说："我个人会永远持有这家公司的股票，一字不假，永远。这是人类历史上最宏大的愿景、最伟大的使命。"
+
+## 三、锁定期后的真正考验
+
+此次IPO的结构设计本身就在防范过早抛售——通常IPO有180天的锁定期，大股东在此期间不得出售股票。本次交易中约75%的股份由内部人士、员工和大型机构持有，他们短期内不会或无法卖出。
+
+但约7%的股份（约20亿美元）由散户投资者持有，他们可以在IPO当天就自由交易。
+
+真正的风暴，在锁定期结束之后。
+
+"显然很多人买这只股票就是为了倒手赚钱，"Garrett说，"还有很多人根本不了解SpaceX的技术、商业模式和长期愿景。"
+
+而Garrett本人对自己的投资信心十足——他甚至做了一件疯狂的事。"我亲口告诉妻子，如果我出了什么事，千万别卖掉我们的SpaceX股票。"
+
+当最坚定的持有者已经把"卖不卖"的问题写进了遗言，市场或许也该重新审视这家公司的真正价值所在——一家正在改写人类航天史的企业，它的股票，配得上一份更长久的耐心。
+
+---
+
+## 微信 HTML
+
+```html
+<section class="article-content">
+  <!-- 摘要引用框 -->
+  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
+    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">SpaceX的IPO让早期投资者赚得盆满钵满，但华尔街却暗暗担忧：一旦锁定期结束，大量投资者会不会抛售套现，把马斯克的铁杆粉丝留在高位接盘？</p>
+  </section>
+  <!-- 正文 -->
+  <p style="line-height: 3; margin-bottom: 24px;">SpaceX的IPO让早期投资者赚得盆满钵满，但有件事让他们寝食难安：一旦大量买家转身变成卖家、抛售SpaceX股票套现离场，最后来接盘的，会不会只剩马斯克最忠诚的粉丝？</p>
+  <p style="line-height: 3; margin-bottom: 24px;">至少目前还不用担心——绝大多数投资者都还处于锁定期内。但顶级风投们已经开始未雨绸缪，纷纷出面安抚市场，坚称不会出现大规模抛售。这背后的焦虑，不言自明。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">彭博社科技通讯记者Edward Ludlow写道："市场现在面临的赌局是——问题不在于谁想拥有SpaceX，而在于已经拥有它的人，还会不会继续持有。"</p>
+  <!-- 小标题一 -->
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">一、千金在手，谁能不动心？</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">IPO已经创造了惊人的财富——它让马斯克成为人类历史上第一位万亿富翁，将SpaceX推升为全球最具价值的公司之一，市值一度超过亚马逊。a16z等主要投资方的持股市值已超过100亿美元。谁要是抢先抛售，就能锁定巨额利润。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">但马斯克的铁杆支持者坚信他们不会这么做。</p>
+  <!-- 小标题二 -->
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">二、大佬表态：我永远不卖</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">SpaceX的早期投资者、137 Ventures合伙人Christian Garrett表示："很多人不会卖的。"这家基金自2011年以来从未卖出一股SpaceX股票。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">红杉资本的Shaun Maguire更是语出惊人。他在接受彭博电视采访时说："我个人会永远持有这家公司的股票，一字不假，永远。这是人类历史上最宏大的愿景、最伟大的使命。"</p>
+  <!-- 小标题三 -->
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">三、锁定期后的真正考验</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">此次IPO的结构设计本身就在防范过早抛售——通常IPO有180天的锁定期，大股东在此期间不得出售股票。本次交易中约75%的股份由内部人士、员工和大型机构持有，他们短期内不会或无法卖出。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">但约7%的股份（约20亿美元）由散户投资者持有，他们可以在IPO当天就自由交易。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">真正的风暴，在锁定期结束之后。</p>
+  <p style="line-height: 3; margin-bottom: 24px;">"显然很多人买这只股票就是为了倒手赚钱，"Garrett说，"还有很多人根本不了解SpaceX的技术、商业模式和长期愿景。"</p>
+  <p style="line-height: 3; margin-bottom: 24px;">而Garrett本人对自己的投资信心十足——他甚至做了一件疯狂的事。"我亲口告诉妻子，如果我出了什么事，千万别卖掉我们的SpaceX股票。"</p>
+  <p style="line-height: 3; margin-bottom: 24px;">当最坚定的持有者已经把"卖不卖"的问题写进了遗言，市场或许也该重新审视一家公司的真正价值所在——一家正在改写人类航天史的企业，它的股票，配得上一份更长久的耐心。</p>
+</section>
+```
+
+## 封面图
+
+![[cover.jpg]]
