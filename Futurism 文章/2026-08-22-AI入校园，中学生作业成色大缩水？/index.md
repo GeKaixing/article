@@ -1,0 +1,45 @@
+---
+date: 2026-08-22
+source: Futurism
+source_url: https://futurism.com/artificial-intelligence/results-high-school-students-ai
+creator: Frank Landymore
+status: 已生成
+---
+
+# AI入校园，中学生作业成色大缩水？
+
+> AI影响学生作业质量，家长教师忧心忡忡。
+
+![封面图](./cover.jpg)AI影响学生作业质量，家长教师忧心忡忡。
+
+## AI作文真能取代语文老师吗？
+
+最近一项研究显示，不少中学 [K 生成了人工智能的‘托儿’。他们利用AI快速完成作业，甚至写作任务，这引起了老师和 [K 家长们的担忧。
+
+## 成绩背后隐藏的真实情况
+
+虽然AI在某些领域表现出色，但学 [K 生如果过度依赖它，会失去独立思考的能力。长期以往，这对他们的成长可能会造成不 [K 利影响。
+
+## 未来教育是否要与AI共舞？
+
+面对这一趋势，学校和家庭应当 [K 如何引导孩子合理使用技术工具？让他们既能享受AI带来的便利，又不失学习的主动性 [K 和创造性？
+
+---
+
+## 微信 HTML
+
+```html
+<section class="article-content">
+  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
+    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">AI影响学生作业质量，家长教师忧心忡忡。</p>
+  </section>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">1、AI作文真能取代语文老师吗？</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">最近一项研究显示，不少中学 [K 生成了人工智能的‘托儿’。他们利用AI快速完成作业，甚至写作任务，这引起了老师和 [K 家长们的担忧。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">2、成绩背后隐藏的真实情况</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">虽然AI在某些领域表现出色，但学 [K 生如果过度依赖它，会失去独立思考的能力。长期以往，这对他们的成长可能会造成不 [K 利影响。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">3、未来教育是否要与AI共舞？</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">面对这一趋势，学校和家庭应当 [K 如何引导孩子合理使用技术工具？让他们既能享受AI带来的便利，又不失学习的主动性 [K 和创造性？</p>
+</section>
+```
+
+## 封面图

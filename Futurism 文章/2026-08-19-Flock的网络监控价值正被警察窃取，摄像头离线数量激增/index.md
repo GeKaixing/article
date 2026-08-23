@@ -1,0 +1,45 @@
+---
+date: 2026-08-19
+source: Futurism
+source_url: https://futurism.com/future-society/flock-network-losing-value-police-alpr-wisconsin
+creator: Joe Wilkins
+status: 已生成
+---
+
+# Flock的网络监控价值正被警察窃取，摄像头离线数量激增
+
+> 监控网络的价值正在流失，越来越多的Flock摄像头开始失联。
+
+![封面图](./cover.jpg)监控网络的价值正在流失，越来越多的Flock摄像头开始失联。
+
+## 随着时间推移，情况越来越糟
+
+Flock公司的网络监控系统似乎遇到了大麻烦。最近一段时间里，越来越多的摄像头由[K
+于各种原因无法正常在线运行。这不仅让普通用户感到困扰，也让依赖这些监控系统的[K
+警方更加头疼。
+
+## 监控盲区扩大
+
+目前，Flock公司正在努力修复离线问题，但成效甚微。许多社区现在面临着监控死角[K
+的问题，这无疑为犯罪分子提供了更多可乘之机。未来，如果这一趋势继续恶化，整个[K
+城市的公共安全将受到严重威胁。
+
+---
+
+## 微信 HTML
+
+```html
+<section class="article-content">
+  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
+    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">监控网络的价值正在流失，越来越多的Flock摄像头开始失联。</p>
+  </section>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">1、随着时间推移，情况越来越糟</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">Flock公司的网络监控系统似乎遇到了大麻烦。最近一段时间里，越来越多的摄像头由[K
+于各种原因无法正常在线运行。这不仅让普通用户感到困扰，也让依赖这些监控系统的[K
+警方更加头疼。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">2、监控盲区扩大</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">目前，Flock公司正在努力修复离线问题，但成效甚微。许多社区现在面临着监控死角[K
+的问题，这无疑为犯罪分子提供了更多可乘之机。未来，如果这一趋势继续恶化，整个[K
+城市的公共安全将受到严重威胁。</p>
+</section>
+```

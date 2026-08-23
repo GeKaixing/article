@@ -1,0 +1,53 @@
+---
+date: 2026-08-15
+source: Futurism
+source_url: https://futurism.com/future-society/mcdonalds-surveillance-intel-repeat-customers-privacy
+creator: Joe Wilkins
+status: 已生成
+---
+
+# 麦当劳竟然掌握了几百页关于你的秘密，你也可以拥有！
+
+> 了解麦当劳对你了如指掌的秘密资料吧！
+
+![封面图](./cover.jpg)了解麦当劳对你了如指掌的秘密资料吧！
+
+## 这是你的“顾客档案”吗？
+
+麦当劳竟然为你建立了数百页的详细资料！这些信息涵盖了你的点餐偏好、常去店址甚[K
+至是消费频率。这不仅让他们能够提供更加个性化的服务，还能让你感受到被重视。
+
+## 你也能拥有这一份专属报告
+
+更令人惊讶的是，这项权利其实属于你。麦当劳允许顾客申请一份自己的“客户档案”副[K
+本。通过这种方式，你可以更好地了解自己在这家全球连锁快餐品牌眼中的形象和喜好[K
+。
+
+## 深入了解，不再只是简单的快餐体验！
+
+当你真正理解了这些数据背后的故事时，每次走进麦当劳都将是一次不同以往的体验。[K
+这份专属报告不仅是一份回顾过去的资料，更像是一种对未来的指引——让未来更加符合[K
+你的期待。
+
+---
+
+## 微信 HTML
+
+```html
+<section class="article-content">
+  <section style="padding: 12px 18px; border-left: 4px solid #DBDBDB; background-color: #f5f5f5; margin-bottom: 24px; border-radius: 2px;">
+    <p style="line-height: 1.6; margin: 0; font-size: 15px; color: #888888;">了解麦当劳对你了如指掌的秘密资料吧！</p>
+  </section>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">1、这是你的“顾客档案”吗？</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">麦当劳竟然为你建立了数百页的详细资料！这些信息涵盖了你的点餐偏好、常去店址甚[K
+至是消费频率。这不仅让他们能够提供更加个性化的服务，还能让你感受到被重视。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">2、你也能拥有这一份专属报告</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">更令人惊讶的是，这项权利其实属于你。麦当劳允许顾客申请一份自己的“客户档案”副[K
+本。通过这种方式，你可以更好地了解自己在这家全球连锁快餐品牌眼中的形象和喜好[K
+。</p>
+  <p style="line-height: 1.8; margin-bottom: 24px; text-align: center;"><strong><span style="color: #3daad6;">3、深入了解，不再只是简单的快餐体验！</span></strong></p>
+  <p style="line-height: 3; margin-bottom: 24px;">当你真正理解了这些数据背后的故事时，每次走进麦当劳都将是一次不同以往的体验。[K
+这份专属报告不仅是一份回顾过去的资料，更像是一种对未来的指引——让未来更加符合[K
+你的期待。</p>
+</section>
+```
