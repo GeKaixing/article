@@ -65,5 +65,3 @@ Thorpe 教：
 > 我们的知识在 **更新**，但我们沟通的语言还停留在上一届的。
 
 未来目标：在临床里逐条匹配疗程。
-
-<aside>Source: Futurity / University of Utah</aside>

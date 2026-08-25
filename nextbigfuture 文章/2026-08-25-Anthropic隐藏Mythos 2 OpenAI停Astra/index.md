@@ -51,5 +51,3 @@ status: 已生成
 - Mythos 2 藏起来训练了，Astra 触到网安红线就停；
 - 安全评估的轮子，赶不上 AI 迭代的速度；
 - 唯一可能的未来：模型发布前，安全评审也进入“连续训练”模式。
-
-<aside>Source: NextBigFuture / SemiAnalysis / Brian Wang</aside>

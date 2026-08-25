@@ -39,5 +39,3 @@ Roberson 自己说了：
 - 其他医疜科的夜班人员。
 
 论文发到了 *《美国急诊医学杂志》*。
-
-<aside>Source: Futurity / University of Missouri</aside>

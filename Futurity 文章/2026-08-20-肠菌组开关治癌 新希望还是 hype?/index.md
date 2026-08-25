@@ -53,5 +53,3 @@ Gajewski 的团队把 T 细胞从“单纯打死”变成“带导航的打死�
 Gajewski 相信：
 
 > “当我们能知道哪些人天生适合免疫治疗，哪些人需要辅助肠菌组，那么癌症免疫治疗对每个人都有效终究是指日之内。”
-
-<aside>Source: Futurity / University of Chicago</aside>

@@ -55,4 +55,4 @@ Nassar 解释道：
 
 研究由美国国家精神卫生研究所(NIMH)资助。
 
-<aside>Source: Futurity / Brown University</aside>
+Source: Futurity / Brown University

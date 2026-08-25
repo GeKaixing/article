@@ -44,5 +44,3 @@ Mike 拿 IVO 的轨道数据，和**同一类型的卫星**进行对比：
 
 - 量子驱动到底行不行，**没有结论**；
 - Mike 自己也说：“**不是结论性的结果**”，可能只是一个“ intriguing anomaly”。
-
-<aside>Source: NextBigFuture / Brian Wang</aside>

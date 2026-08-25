@@ -43,5 +43,3 @@ Stevens 打了一个形象的比喻：
 > “我们看病人在 ICU，却从来不知道‘一个普通人在日常生活中，血压是怎么走的’。他们上班、陪家人，血压天天怎么变？谁 cares？”
 
 研究由 NIH 和 NSF 联合支持。
-
-<aside>Source: Futurity / Johns Hopkins University</aside>

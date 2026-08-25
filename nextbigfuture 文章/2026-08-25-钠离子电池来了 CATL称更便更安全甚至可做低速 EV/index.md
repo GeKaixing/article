@@ -56,5 +56,3 @@ Prototype 已经冲到 **200 Wh/kg**。
 钠离子是“**更便宜+更安全+寿命更长**”，但在 **续航** 上还是弱。
 
 它不是要取代锂电，而是给它**另外一条赛道**：低成本、低温、高循环。
-
-<aside>Source: NextBigFuture / Brian Wang</aside>

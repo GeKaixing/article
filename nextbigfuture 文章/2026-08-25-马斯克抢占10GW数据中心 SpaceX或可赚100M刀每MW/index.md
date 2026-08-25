@@ -62,5 +62,3 @@ SpaceX 是 **唯一** 能在“几年之内”产出 10GW 的玩家；
 价钱贵但**应急上电 = 定价权**；
 
 唯一问题：**能不能盖完？**
-
-<aside>Source: NextBigFuture / Semianalysis / Brian Wang</aside>
