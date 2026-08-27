@@ -1,12 +1,13 @@
 # Tech RSS 文章目录
 
-> 自动抓取 Futurism / Futurity / NextBigFuture RSS → 翻译洗稿为中文,共 **141** 篇。
+> 自动抓取 Futurism / Futurity / NextBigFuture RSS → 翻译洗稿为中文,共 **142** 篇。
 
 在 Obsidian 中点击链接可直接跳转到对应笔记。
 
-## 2026 年 8 月（104 篇）
+## 2026 年 8 月（105 篇）
 
-- [[Futurism 文章/2026-08-26-NASA用一家初创公司去救濒危太空望远镜结果把自己也搭了进去/2026-08-26-NASA用一家初创公司去救濒危太空望远镜结果把自己也搭了进去]]
+- [[Futurism 文章/2026-08-26-WSJ-AI-writing/2026-08-26-WSJ-AI-writing]]
+- [[Futurism 文章/2026-08-26-NASA用一家初创公司去救濒危太空望远镜结果把自己也搭了进去/2026-08-26-NASA用一家初创公司去救濅危太空望远镜结果把自己也搭了进去]]
 - [[NextBigFuture 文章/2026-08-25-SpaceX在建星舰发射工位达17个年发射能力超1.5万次/2026-08-25-SpaceX在建星舰发射工位达17个年发射能力超1.5万次]]
 - [[NextBigFuture 文章/2026-08-25-OpenAI首颗推理芯片Jalapeno亮相Hot Chips/2026-08-25-OpenAI首颗推理芯片Jalapeno亮相Hot Chips]]
 - [[Futurity 文章/2026-08-25-SlideAgent教AI像人一样翻页读文档/2026-08-25-SlideAgent教AI像人一样翻页读文档]]
