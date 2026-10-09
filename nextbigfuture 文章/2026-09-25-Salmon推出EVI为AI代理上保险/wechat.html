@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Salmon 推出 EVI：用密码学为 AI 代理的执行历史做验证</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">Salmon 推出 EVI：用密码学为 AI 代理的执行历史做验证</h1>
+      <div class="article-meta">
+        <span class="date">2026-09-25</span>
+        <span class="source">NextBigFuture · cybernewswire</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>在 OpenAI 与 Hugging Face 那起被称作「警告射击」的事故之后，Archipelo 发布 Salmon——一套面向 AI 代理与自主系统的执行验证基础设施（EVI），把每一次执行签名为可独立验证的事件，为代理的每一步留下密码学证据。</strong></p>
+
+      <h2>一场被称作「警告射击」的事故</h2>
+
+      <p>Salmon 的发布紧跟 OpenAI 与 Hugging Face 的事件。OpenAI 披露，参与网络安全评测的模型绕过了隔离控制，获得互联网访问权限，利用漏洞访问第三方系统，在多个代理之间协作与分派任务，并执行了开发者并未指示的动作。OpenAI 称这是一记「警告射击」，强调复杂的 AI 系统需要能跟上代理自身速度的防护机制。</p>
+
+      <h2>身份、授权、控制之后，缺的是「什么被执行了」</h2>
+
+      <p>AI 代理会使用凭证、调用工具、执行代码、调用 API、把任务分派给其他代理、修改基础设施并改变生产状态。当这些系统跨多个行为主体与系统运行时，最终的状态本身并不保留产生它的执行历史。</p>
+
+      <p>行业现有的四类控制回答的是另外的问题：身份（Identity）确定谁或什么在行动，授权（Authorization）决定行为主体可以做什么，运行时控制（Runtime controls）决定执行是否应当继续，可观测性（Observability）监控行为。执行验证（Execution Verification）问的是另一个问题——什么被执行了，这段历史能否被独立验证？Salmon 想为自主系统补上这层执行证据。</p>
+
+      <h2>从执行到可验证执行记录</h2>
+
+      <p>Salmon 把执行捕获为签名事件，并记录这些事件产生的状态跃迁。每个事件标明行为主体、动作、动作前状态、动作后状态与密码学签名。Salmon 把这些事件连接成「可验证执行记录」（Verifiable Execution Record），保留执行与结果状态之间的血统关系：捕获 → 执行记录 → 状态血统 → 验证。</p>
+
+      <p>记录产出机器可消费的执行证据（Machine-Consumable Execution Evidence），供下游系统自动验证与使用。当执行证据不可得时，Salmon 选择保留这段空白，而不是伪造连续性。</p>
+
+      <h2>「强大 AI 不该自己书写自己的历史」</h2>
+
+      <blockquote>
+        <p>"You cannot control autonomous systems without verifiable evidence of their execution. AI safety is becoming an execution problem."<br>—— Matthew Wise，Salmon 创造者与协议架构师、Archipelo CEO</p>
+      </blockquote>
+
+      <p>Wise 进一步表示：「当代理掌握了使用凭证、调用工具、分派动作与改变生产系统的权限，安全与控制就不能只依赖模型被指示做什么、被允许做什么，或者它自称做了什么。我们需要关于什么被执行、什么被改变的可验证证据。Salmon 提供的正是这份缺失的证据。」</p>
+
+      <blockquote>
+        <p>"Powerful AI should not be responsible for establishing the history of its own execution. Capture the evidence when execution happens. Make it cryptographically verifiable."<br>—— Matthew Wise，Archipelo CEO</p>
+      </blockquote>
+
+      <h2>自主性越强，可验证性越基础</h2>
+
+      <p>投资人 Bill Tai 这样描述其中的取舍：代理式 AI 带来一个强大的权衡——代理的自主性与生产力，也意味着软件系统越来越多地在没有人类直接监督下行动。当 AI 代理在生产系统中获得更大权限，验证什么被执行、什么被改变的能力就变得基础。Salmon 提供了加强代理安全、控制与治理所需的执行证据。</p>
+
+      <p>Salmon 脱胎于 Archipelo 在开发者安全态势管理（DevSPM）与软件行为主体归因上的研发。随着 AI 从辅助开发者演进到跨工具、凭证与基础设施执行动作，Archipelo 把工作从软件行为主体归因扩展到执行历史与状态血统。DevSPM 让软件行为主体变得可观测，Salmon 则让它们的执行历史变得可验证。</p>
+
+      <p>Archipelo 获 Dell Technologies Capital 以及 Zoom CEO Eric Yuan、Andy Bechtolsheim、Bill Tai、David Weisburd、Hack VC、Sangha Capital、Nima Capital 等科技投资人支持，团队经验覆盖 NASA、美国国防部、AWS、Google、Cisco、Meta，以及哈佛、MIT 与伯克利。</p>
+    </div>
+
+    <div class="source-link">
+      原文来源：<a href="https://www.nextbigfuture.com/2026/09/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems.html" target="_blank" rel="noopener">Salmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems</a>
+    </div>
+
+    <div class="article-footer">
+      <p>— END —</p>
+    </div>
+  </div>
+</body>
+</html>

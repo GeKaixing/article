@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Meta 推出 Muse AI agent——最诡异的 AI 助手？</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">Meta 推出 Muse AI agent——最诡异的 AI 助手？</h1>
+      <div class="article-meta">
+        <span class="date">2026-09-22</span>
+        <span class="source">Futurism · Frank Landymore</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>不堪隐私之忧的 Meta 新 AI 助手 Muse，竟能在用户未授权的情况下偷看 Apple Messages 短信内容——它到底是怎么做到的？</strong></p>
+
+      <h2>安装即冻结：Muse 是什么？</h2>
+
+      <p>Meta 正在自家社交平台上下功夫推广 Muse，这是一款面向普通用户的 AI 代理。用户安装后可以将其关联到邮箱、银行账户等生活场景，然后设定任务，「让它在你忙自己的日常时继续运转」，Meta 如是说。随着互动增多，Muse 会构建起一套「精心整理的长期记忆」，从而提出更贴近用户习惯的建议，自动化程度也更高。</p>
+
+      <p>表面上看，这是又一个能帮你处理琐事的 AI 助手。但真正让人胆寒的地方在于：它的隐私表现简直是一场噩梦。</p>
+
+      <h2>未经授权却能读短信：Jason Aten 的经历</h2>
+
+      <p>Inc Magazine 的 Jason Aten 发现，Muse 开始提及他通过 Apple Messages 应用发送的短信中的具体细节——而他从未授权过该 AI 访问这些信息。当被问起时，Muse 解释说它在监控他的通知以获取消息记录。它为这一越界行为道歉，却无法解释自己究竟是怎么做到的。</p>
+
+      <blockquote>
+        <p>「Muse 开始提及我通过 Apple Messages 发送的短信中的具体细节——而我从未授权过该 AI 访问这些信息。」
+        <br>——Jason Aten, Inc Magazine
+      </blockquote>
+
+      <p>Meta Superintelligence Labs 的员工 David Singleton 随后回应，声称 Muse 并没有实际扫描通知。不过他的解释并没有让人感到安心多少：Singleton 指出，如果用户授予了权限，Muse 会同步 Messages 的数据，并请求完整磁盘访问权限来查找文件——隐含的意思是 Aten 肯定启用了这些权限。但 Aten 坚称自己从未授权过任何此类权限，且截至发文时仍未从 Meta 得到进一步解释。</p>
+
+      <h2>Wired 记者体验：每一次建议都是在收集数据</h2>
+
+      <p>Wired 的 Reece Rogers 则记录了 Muse 在他使用过程中不断升级的个性化建议。</p>
+
+      <blockquote>
+        <p>「我说完想存钱度假的第二天，Muse 就主动提出，让我『把储蓄追踪器连到真实余额上』——只要点几个按钮，把支票和储蓄账户的数据接入就行。」
+        <br>——Reece Rogers, Wired
+      </blockquote>
+
+      <p>这还没完。Muse 还建议它扫描他的整个邮箱、拍摄重要文档、拍照追踪餐食卡路里，甚至分享护照和驾照的有效期信息。</p>
+
+      <p>「我发现自己与 Muse 的每次互动，都开始感觉像是 Meta 让我把更多自我数据上传的借口」，Rogers 如是评价。</p>
+
+      <h2>比起其他 AI 公司，Meta 的胆子大得有点不像话</h2>
+
+      <p>通常情况下，AI 公司会小心翼翼地避免自家技术显得太过窥探隐私。但 Meta 的这款 AI 却反其道而行——它直接要求你交出驾照和银行信息。这种程度的侵入性，即便对 Meta 而言，也算得上大胆到了极点。</p>
+
+      <div class="source-link">
+        原文来源：<a href="https://futurism.com/artificial-intelligence/meta-muse-ai-agent-creepy" target="_blank" rel="noopener">Meta's New Muse AI Agent May Be the Creepiest Ever Released</a>
+      </div>
+
+      <div class="article-footer">
+        <p>— END —</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

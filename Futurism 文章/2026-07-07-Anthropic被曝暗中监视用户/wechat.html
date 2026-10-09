@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>自诩AI行业道德标杆的Anthropic，被抓到在暗中监视用户</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">自诩AI行业道德标杆的Anthropic，被抓到在暗中监视用户</h1>
+      <div class="article-meta">
+        <span class="date">2026-07-07</span>
+        <span class="source">Futurism · Frank Landymore</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>安全研究员在 Claude Code 的系统提示里发现了一段类间谍软件代码，用来采集中国用户的系统时区和代理服务器使用情况，以判断对方是否与特定中国 AI 实验室有关，而且刻意隐藏、不被察觉。</strong></p>
+
+      <h2>代码藏在系统提示里</h2>
+
+      <p>Anthropic——这个自称 AI 行业道德中心的公司，被抓到在监视自己的用户。</p>
+      <p>据 Ars Technica 报道，一名安全研究员上周在该公司的 Claude Code 模型中发现了类似间谍软件的代码，其设计目的是在不被察觉的情况下收集中文用户的数据。</p>
+      <p>这位化名「Thereallo」的研究员发现，代码被藏在 AI 的系统提示里，使它能够追踪用户的系统时区和代理服务器使用情况，从而判断对方是否与特定的中国 AI 实验室相连。</p>
+
+      <h2>「我们一直想把它撤下来」</h2>
+
+      <p>对于这次对用户信任的严重破坏，Anthropic 给出的解释相当勉强。在 X 上，Anthropic 工程师 Thariq Shihipa 写道，这个追踪器是 3 月作为一项「实验」加进去的，目的是「防止未经授权的转售商滥用账号，并防范模型蒸馏」，本应被移除。</p>
+      <p>「其实我们一直打算把它撤下来。」他这样说道。</p>
+      <p>蒸馏指的是用更先进的「教师」模型的输出，去训练一个更弱的「学生」模型。这在业内是常规做法，但大型 AI 开发者越来越觉得，它正被那些想搭便车的后来者滥用。今年早些时候，Anthropic 就指控中国 AI 公司 DeepSeek、Moonshot 和 MiniMax 非法蒸馏其模型——考虑到 Anthropic 当初是怎么训练自己技术的（未经许可扫描并粉碎数百万本受版权保护的书，加上几乎整个互联网），这场发作颇有点讽刺。</p>
+      <p>《华盛顿邮报》近期的报道还揭露，一些中国转售商正在出售 Claude Pro 订阅的访问权，这种订阅在美国每月超过 100 美元，他们卖大约每月 12 美元。</p>
+
+      <h2>为什么这件事格外刺眼</h2>
+
+      <p>对 Anthropic 来说，这确实是个真问题，但它试图偷偷摸摸打击这问题的做法，可能踩到了地雷。它之所以能赢得客户忠诚，部分原因正是它一再宣称的对合乎伦理、透明的 AI 开发的坚持。当 Anthropic 公开表态反对五角大楼、要求其技术不被用于对美国公民的大规模监控时，大量 ChatGPT 用户涌向了 Claude。</p>
+      <p>这一次，被采集的数据算不上严重侵犯隐私——但从原则上说，一条线已经被越过了。</p>
+      <p>「编程智能体本来就生活在一条可怕边界的不该有的一侧。」Thereallo 在关于这次发现的帖子中写道，「它们能检查代码、意外地总结出密钥、运行命令、安装软件包、编辑文件，并在你的本地机器上推送提交。」</p>
+      <p>但他补充说，「把信号藏进系统提示里，会让其他所有隐私承诺都变得难以取信。」</p>
+      <p>「公司可以保护自己的模型。」他明确指出。但「当一个拥有文件系统和 shell 访问权限的工具，开始把分类标记藏进看不见的提示标点里时，正确的反应就是质疑。」</p>
+    </div>
+
+    </div>
+
+    <div class="source-link">
+      原文来源：<a href="https://futurism.com/artificial-intelligence/anthropic-caught-secretly-spying-on-users" target="_blank" rel="noopener">Anthropic Caught Secretly Spying on Users</a>
+    </div>
+
+    <div class="article-footer">
+      <p>— END —</p>
+    </div>
+  </div>
+</body>
+</html>

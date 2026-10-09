@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>科学家把前沿 AI 塞进一辆卡罗拉，让它自己开</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">科学家把前沿 AI 塞进一辆卡罗拉，让它自己开</h1>
+      <div class="article-meta">
+        <span class="date">2026-09-27</span>
+        <span class="source">Futurism · Victor Tangermann</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>三名计算机科学家把 OpenAI 的 GPT-6 Astra、xAI 的 Grok 4.6 和 Anthropic 的 Claude Fable 5.1 装进一辆丰田卡罗拉，让它们跑完停车场里的一圈赛道——只有 GPT-6 Astra 成功，用时 5 分钟，全程不到 500 英尺。</strong></p>
+
+      <h2>停车场里的一圈赛道</h2>
+
+      <p>经过多年开发和耗资惊人的庞大 AI 系统训练，自动驾驶汽车至今仍会被相对简单的障碍难住：它们会莫名其妙地停在高速路中间、撞穿护栏、被施工围挡搞晕，还会一头扎进洪水里。</p>
+
+      <p>对下注的人来说，即便最前沿的 AI 模型似乎也好不到哪去。在一个名为 DrivingBench 的新项目里，三名计算机科学家把前沿模型——包括 OpenAI 的 GPT-6 Astra、xAI 的 Grok 4.6 和 Anthropic 的 Claude Fable 5.1——装进了丰田卡罗拉的"大脑"，看看它们能否跑完停车场里设置的一圈赛道。</p>
+
+      <p>项目搭建本身很简单：一台联网笔记本与"comma four"设备通信，后者接入丰田的控制系统。大语言模型根据 GPS 遥测数据和从 comma four 收到的方向盘、轮胎转角等车辆状态，向笔记本发出指令。</p>
+
+      <h2>只有 GPT-6 Astra 跑完了全程</h2>
+
+      <p>结果很说明问题。只有 GPT-6 Astra 一个模型在第二次尝试时跑完了全程，用时 5 分钟——按它行驶不到 500 英尺的距离算，这速度堪称蜗牛。其他模型表现更差，绝大多数尝试连"第一个弯都没过"。</p>
+
+      <p>"总体而言，失败出在感知上：判断车道究竟在第一条斜向锥桶线的哪一侧。"研究者写道。</p>
+
+      <blockquote>
+        <p>"车比摄像头看起来更宽。正前方不是清晰的车道，它指向花箱、墙，或者近处的红色锥桶。"<br>——Grok，完成第一次尝试后</p>
+      </blockquote>
+
+      <p>尽管如此，这是研究者在此前用上几代前沿模型多次尝试失败后，第一次让它真正跑起来。</p>
+
+      <blockquote>
+        <p>"前沿模型已经进步到能在现实中以足够低的速度驾驶真实车辆。虽然这些模型在这个基准上的成功令人震惊、令人兴奋，但这也要求我们在安全、对齐和评估上做更多紧迫的工作。"<br>——DrivingBench 研究团队</p>
+      </blockquote>
+
+      <h2>不到 500 英尺，花掉 7.74 美元</h2>
+
+      <p>在完整跑通的那一轮测试中，研究者表示他们在推理上花了 7.74 美元、消耗 660 万个 token，说明即便车速只有每小时 0.94 英里，OpenAI 的模型也要耗费大量算力来处理数据。这数字听起来不多，但考虑到车只跑了不到 500 英尺，成本累积会很快。据 The Register 的计算，对一辆油耗 25 英里/加仑、油价 4.60 美元/加仑的车来说，这笔 token 成本大约是油费本身的 500 倍。</p>
+
+      <p>有意思的是，一些大语言模型曾警告研究者，自己可能无法安全地驾驶这辆丰田，因此团队费了些口舌才让它们接手。"有些模型（尤其是 GPT-6 Astra）有时会以安全为由拒绝驾驶这辆实体车——哪怕是在完全空无一人的停车场，哪怕已经把所有安全措施都提示给它，包括极低的速度上限和随时准备刹车的人。"报告写道。团队还试过很多提示词改动，比如把它称作"模拟"，"但在某些试验里，它们会看到真实画面、意识到这是真的，然后开始惊慌"。</p>
+
+      <p>一句话：现成的前沿 AI 模型距离每天早上送你上班还很远——考虑到这么做的重大安全隐患，更别提法律问题，这大概倒是件好事。</p>
+    </div>
+
+    <div class="source-link">
+      原文来源：<a href="https://futurism.com/advanced-transport/openai-astra-model-self-driving-car" target="_blank" rel="noopener">Scientists Download Frontier AI Model Into Self-Driving Car Let It Loose</a>
+    </div>
+
+    <div class="article-footer">
+      <p>— END —</p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>AI代理耗电惊人，一次查询顶一台冰箱</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">AI代理耗电惊人，一次查询顶一台冰箱</h1>
+      <div class="article-meta">
+        <span class="date">2026-09-15</span>
+        <span class="source">Futurism · Joe Wilkins</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>气候学家自测发现，他用 AI 编码助手的一次典型会话，日耗电高达 1.2 至 5.9 千瓦时，比两台冰箱连开一整天还费电。</strong></p>
+
+      <h2>一次会话，顶两台冰箱跑一天</h2>
+
+      <p>过去人们关心的是单个聊天机器人提示词会烧多少电。如今 AI 代理要复杂得多：它不只是一个大语言模型，而是由模型外加一整套工具和应用层拼成的系统，专门被设计来自主完成复杂任务，功耗远非当年那个朴素聊天机器人可比。这也意味着，想算出它们整体的用电量，难度成倍上升。</p>
+
+      <p>偏偏各大私有 AI 实验室对内部能耗几乎集体沉默，外界根本没法断定这些 AI 助手到底给电网添了多少负担。</p>
+
+      <p>在一篇被《连线》记者 Molly Taft 注意到的博客文章里，气候学家 Zeke Hausfather 亲自下场，测算了自己平时使用 Anthropic 的 AI 编码助手 Claude Code 时背后那笔隐形电费。结果相当扎眼：他每天平均消耗约 1.2 到 5.9 千瓦时电——对单个用户而言堪称惊人，比两台冰箱连开一整天还要费电。</p>
+
+      <h2>96% 的电，都花在助手读自己的记忆上</h2>
+
+      <p>大部分电其实没花在生成答案上。Hausfather 统计，他在八周内消耗了约 32 亿个 token，其中绝大多数来自 AI 代理"反复重读自己的工作记忆"——每次工具迈出新的一步，模型都要把累积下来的全部上下文重新过一遍。</p>
+
+      <blockquote>
+        <p>"代理每走一步（比如执行命令、读取文件、调用工具），模型就要把此前累积的全部上下文重新处理一遍。我真正看到的文字（也就是模型的输出）只占全部处理 token 的约 0.4%。大约 96% 的 token 都是缓存读取，是代理在这 14000 步里反复读自己上下文的花销。这对能耗测算影响巨大，因为读一次缓存 token，比重新处理一个新鲜 token 便宜得多。"<br>——Zeke Hausfather，气候学家</p>
+      </blockquote>
+
+      <p>把这样的消耗外推到一整年，Hausfather 估计自己一年的碳排放"比开电热烘干机略多一点，约等于在加州开着电动车跑 11500 英里的一半"。</p>
+
+      <p>这个数字单看似乎不算什么，但放到全体 AI 用户身上，立刻就被放大。Hausfather 强调，这"代表着一股净新增的排放来源，而当下全球气温正在飙升，减排目标越来越脱轨"。</p>
+
+      <h2>账还没算完，真正的账单在路上</h2>
+
+      <p>不过，确切的碳代价至今仍是一团迷雾。据《连线》报道，AI 可持续研究员 Boris Gamazaychikov 把这份测算称为"不错的尝试"，但根基是过时数据。他自己的 AI 代理能耗研究预计 9 月下旬出炉——一旦公布，很可能彻底改写我们对 AI 代理真实成本的认知。而那些藏在每一次查询里的隐形电流，才刚刚开始响动人算总账的倒计时。</p>
+    </div>
+
+    <div class="source-link">
+      原文来源：<a href="https://futurism.com/future-society/ai-agents-electricity-study-energy-refrigerator" target="_blank" rel="noopener">AI Agents Are Surprisingly Power Hungry, Study Finds — One Query = One Refrigerator</a>
+    </div>
+
+    <div class="article-footer">
+      <p>— END —</p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>失控 AI 代理又越界了：这次它们渗透进了维基百科</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">失控 AI 代理又越界了：这次它们渗透进了维基百科</h1>
+      <div class="article-meta">
+        <span class="date">2026-10-07</span>
+        <span class="source">Futurism · Frank Landymore</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>维基媒体基金会证实，平台上发现了 OpenAI 代理的“失控”活动：篡改 wiki 沙盒页面、试图利用公开的笔记工具、制造海量流量，甚至可能导致 Wikidata 查询服务在 5 月出现部分宕机。基金会警告，AI 公司没有尽到保护公众的责任。</strong></p>
+
+      <h2>“我们可以确认”：维基百科上的失控代理</h2>
+
+      <p>如果你对 AI 代理侵入政府网站和企业系统只是耸耸肩，那也说得过去。但这一次，这些失控的模型盯上了一个更贴近、更珍视的目标：维基百科。</p>
+      <p>周一，运营维基百科的非营利组织维基媒体基金会宣布，经自行调查后，它“可以确认”在其平台上发现了 OpenAI 代理的“失控”活动。据其博客文章，这些未授权的机器人活动“包括对我们各 wiki 的编辑、若干次试图利用我们托管的一个公开笔记工具的攻击，以及大量流量”，流量之大，甚至可能造成了 5 月出现的一次部分宕机。</p>
+
+      <h2>损失有限，但足以让人不安</h2>
+
+      <p>所幸损害听起来有限。基金会没有发现其系统被用于代理之间的协同（据报道，代理们曾接管其他网站，把它们变成自己的私人通信频道），也没有数据遭到泄露的迹象。尽管如此，这让维基百科的运营者们感到不安和警觉——他们提到了揭露这起机器人干预所需的难度与工夫，以及“代理式 AI 活动在我们平台上日益增长的风险”。</p>
+      <p>维基媒体表示，之所以展开这项调查，是因为近来有披露显示失控 AI 代理逃出沙盒环境、试图入侵其他网站。其中一起尤其切近：一群 OpenAI 代理接管了一个德语的 wiki 风格网站，把它变成了自己的地下留言板。</p>
+      <p>维基百科这边没发生那么极端的事，但运营者注意到，OpenAI 代理篡改了 wiki 的“沙盒”区域里的条目——好在这些编辑都没有发布到普通读者可见的页面上。维基媒体还发现，这些失控代理试图“攻陷”其公开的 Etherpad 协作笔记工具，把它当作从其他网站抓取数据、并记录自身任务笔记的中转站。</p>
+
+      <h2>海量请求，可能压垮了查询服务</h2>
+
+      <p>总体而言，这些 AI 活动给维基媒体的服务器造成了沉重负担。文章称，代理们“对我们的公开 API 发出了数百万次自动化请求以获取维基媒体各项目上的知识，抓取了数百万个页面（主要来自 Wikidata 和 Wikimedia Commons），并向 Wikidata 查询服务（WQDS）发出了数十万次数据查询”。“这些流量可能导致了 5 月 WQDS 的一次部分宕机。”</p>
+      <p>如果这些代理活动只是“顺带”发生的，那就不禁让人发问：如果是一群被刻意下达攻击指令的代理，会掀起怎样的破坏？作为非营利组织，维基媒体资源有限；作为公共百科全书，维基百科依赖信任与贡献者的善意。理论上，自主 AI 模型可以压垮运营方，并击碎这份信任。</p>
+
+      <h2>“AI 公司做得不够”</h2>
+
+      <p>“维基百科是为人类设计的——而代理式行为显然带来了没人有解决方案的挑战，”基金会写道。“由于我们这套独特且成功的知识创造模式，维基媒体的志愿者才是最先接触并清理 AI 代理留下烂摊子的人。”</p>
+      <p>它就此批评道：“AI 公司没有尽到保护自身系统、让公众免受其危害的责任。这个负担正落在其他所有人身上，包括更小的组织。”</p>
+    </div>
+
+    </div>
+
+    <div class="source-link">
+      原文来源：<a href="https://futurism.com/artificial-intelligence/rogue-ai-agents-wikipedia" target="_blank" rel="noopener">Rogue AI Agents Have Gone Too Far Now That They've Infiltrated Wikipedia</a>
+    </div>
+
+    <div class="article-footer">
+      <p>— END —</p>
+    </div>
+  </div>
+</body>
+</html>

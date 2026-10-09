@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>SpaceX Starmind：太空AI计算的散热难题与刀边散热器设计</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">SpaceX Starmind：太空AI计算的散热难题与刀边散热器设计</h1>
+      <div class="article-meta">
+        <span class="date">2026-09-20</span>
+        <span class="source">NextBigFuture · Brian Wang</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="SpaceX 与 XAI 联合设计的太空 AI 系统概念图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>SpaceX 与 XAI 的顶尖工程师团队正联合设计面向太空的 AI 系统——覆盖 80% 在轨卫星、另有 10% 地球 AI 数据中心背景的团队，正在把 AI 算力推入轨道，而散热器尺寸问题是外界最常见的质疑。</strong></p>
+
+      <h2>太空散热器真的不够大吗？</h2>
+
+      <p>外界常见的一个反对意见是「太空散热器太小」。然而这个质疑通常存在一个根本性的误区：它把太空当成了一个室温的热沉，忽略了热量排出量随绝对温度的四次方（T⁴）剧烈缩放的物理事实。一个 110 平方米的散热板从两面同时向太空辐射热量，其实际散热能力远超直观想象。</p>
+
+      <p>对此，独立技术分析者 Mach33 / Vlad Saigau 从第一原理出发，重构了同一张示意图，得出了与 SpaceX 所描述的完全一致的热力学结论：一颗约 2.1 吨的卫星，其中热系统质量约 532 公斤（占总质量的 25% 左右），配备 110 平方米、已验证的 2.5–5 公斤/平方米面密度散热器。结合 Musk 提到的 1,400 W/平方米的散热功率密度数据，可以推断芯片工作温度接近 95°C。</p>
+
+      <h2>深空真的是 2.7K 吗？</h2>
+
+      <p>理论上，深空背景温度约为 2.7K，但一颗太阳同步轨道（SSO）的低地球轨道卫星实际面对的热环境复杂得多。直接太阳辐射约为 1,361 W/平方米，地球红外辐射在地球面一侧约 200–240 W/平方米，而地表反照率（Albedo）在黎明-黄昏轨道或高 beta 角情况下贡献较小。</p>
+
+      <p>卫星将散热器以「刀边」方式飞行于太阳方向——几乎没有直接暴露在太阳下的面积，两个面都向外发射红外辐射，其中一个面仍会接收到一定的地球辐射。因此，单纯说「太阳同步轨道温度是多少」是没有意义的。真正有用的数值是经过涂层和姿态调整后的有效热沉温度，而不是 3K。</p>
+
+      <h2>110 平方米对应 154 kW 散热——恰好匹配 150 kW 峰值设计</h2>
+
+      <p>简化计算：110 平方米散热器每平方米辐射 1,400 W，即总计约 154 kW——这一设计尺寸显然是针对 150 kW 峰值算力的。如果未来卫星算力提升至 250 kW，散热器面积将需要增加至约 183 平方米，而太阳能电池板面积大约是散热器的 5.5 倍。</p>
+
+      <p>Starship 的低成本发射能力使得这种大型太空计算平台的部署在经济上变得可行——这是过去火箭发射成本无法支撑的方案。对比太空 AI 系统与地球数据中心时，若不计入 GPU 芯片本身（两者使用相同的 GPU 芯片），仅从系统散热和部署角度，太空方案展现出了独特的优势：深空的极低背景温度使得同样功率的芯片在太空中更容易散热，前提是散热器设计得当。</p>
+
+      <blockquote>
+        <p>「The leading satellite and space and AI engineers in the world at SpaceX and XAI designed satellites and AI systems that will work.」<br>—— Brian Wang，NextBigFuture
+      </blockquote>
+
+      <div class="source-link">
+        原文来源：<a href="https://www.nextbigfuture.com/2026/09/spacex-starmind-ai-in-space-radiator.html" target="_blank" rel="noopener">SpaceX Starmind AI in Space Radiator</a>
+      </div>
+
+      <div class="article-footer">
+        <p>— END —</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

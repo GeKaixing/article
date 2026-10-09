@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>AI写出的代码，人类工程师已经看不懂了</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">AI写出的代码，人类工程师已经看不懂了</h1>
+      <div class="article-meta">
+        <span class="date">2026-10-03</span>
+        <span class="source">Futurism · Victor Tangermann</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>随着生成式AI大量接管编程，越来越多工程师看不懂AI吐出的代码，连OpenAI自己的工程师都承认不明白自家GPU内核代码在做什么，而约35%的AI生成代码在投入生产前并未被完全理解。</strong></p>
+
+      <h2>从写代码到看管模型</h2>
+
+      <p>随着程序员在工作中越来越多地使用生成式AI，他们的职责正迅速从从零打造新产品，转变为看管一个把代码拼凑起来的大语言模型。</p>
+      <p>据芯片优化软件公司Infinity创始人杰里米·尼克松（Jeremy Nixon）对Business Insider所说，已经到了有些工程师再也看不懂AI吐出代码的地步。这可不是好兆头——研究者正发现，AI的广泛使用可能导致认知能力下降和技能萎缩，计算机科学家也不例外。开发者担心，随着雇主不断推进更多AI自动化，软件工程师正离真正动手写代码、离学习架构大型项目所需的技能越来越远。</p>
+
+      <h2>连OpenAI内部也这样</h2>
+
+      <p>即便是前沿AI实验室的员工，也对看不懂模型输出的同事感到震惊。今年早些时候，独立研究机构SemiAnalysis的技术人员乔丹·纳诺斯（Jordan Nanos）在一场访谈中透露，OpenAI的工程师在翻阅自家GPU内核代码时完全不知所云——那正是公司试图更好地利用硬件来训练和运行AI模型的核心程序。</p>
+      <p>纳诺斯对Fireside Alpha的曼苏尔·卡拉姆（Mansour Karam）说，和他们一起翻代码的那些人，显然很懂硬件、很懂系统里的概念，可对他们展示的这段DeepSeek的MLA内核到底在做什么，却毫无头绪。他补充说，你可以一行行看下去，然后全是“不对，不对，不对”；AI理解它、测试它，你看到结果，它产出性能出色的正确内核。</p>
+
+      <h2>错误可能从缝隙里溜过去</h2>
+
+      <p>一个危险在于，随着人类监督淡化，错误或幻觉会从缝隙中漏过去。今年早些时候，亚马逊在一系列扰乱客户订单的故障后，被迫实施为期90天的“代码安全重置”。尽管公司反驳了AI应为此负责的说法，内部会议记录却显示，管理者担心“生成式AI辅助改动”的“高爆炸半径”。</p>
+      <p>软件公司Undo近期的一项分析发现，向AI智能体的转变正在打开闸门。该公司称，约35%的AI生成代码在工程团队推上生产环境前并未被完全理解。同时，29%的受访软件工程师表示，自己每月多次目睹因工程师需要去“解开”AI生成代码而导致的生产力损失；高达94%的人说，过去半年里至少见过一次这类情况。</p>
+
+      <h2>这是范式转变还是麻烦</h2>
+
+      <p>工程师如今每天花大量时间翻检AI生成的代码，引出一个恼人的问题：用这项技术到底是省事还是添麻烦？</p>
+      <p>对纳诺斯这样的人来说，这未必是无能，而只是软件开发范式转变的一个例证，正如AI研究者谢尔盖·克莱夫佐夫（Sergey Cleftsow）近日在一篇Medium文章中主张的那样：AI已进步到无需再为许多事情操心的地步，开发者只需定义架构和正确性标准，其余交给神经网络。但这种乐观能否在软件开发变得面目全非之际站得住脚，仍是未解的问题。研究者同样担心，新一代工程师成长的环境正在主动削弱理解代码本身的价值——而对一个日益把AI置于核心的数字世界秩序来说，这不是好兆头。</p>
+    </div>
+
+    </div>
+
+    <div class="source-link">
+      原文来源：<a href="https://futurism.com/artificial-intelligence/ai-writing-code-humans-cant-understand" target="_blank" rel="noopener">AI Now Writing Code That Humans Can’t Even Understand</a>
+    </div>
+
+    <div class="article-footer">
+      <p>— END —</p>
+    </div>
+  </div>
+</body>
+</html>

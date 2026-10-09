@@ -1,0 +1,107 @@
+---
+title: 买下老牌媒体做成AI垃圾农场的那三兄弟，其中一位与麦克斯韦关系密切
+date: 2026-09-28
+source: Futurism
+source_url: https://futurism.com/artificial-intelligence/brown-brothers-media-ghislaine-maxwell
+author: Maggie Harrison Dupré
+cover: cover.jpg
+tags:
+  - 媒体
+  - AI垃圾内容
+  - Brown Brothers Media
+  - 调查报道
+---
+
+# 买下老牌媒体做成AI垃圾农场的那三兄弟，其中一位与麦克斯韦关系密切
+
+> Futurism 此前调查了 Brown Brothers Media——三兄弟收购濒死媒体、用 AI 内容灌满网站，每月约 6400 万访问量。新发现是：Justin Brown 创办、后被并入该公司的 Ideapod，与已故金融家爱泼斯坦的圈子、尤其是因性交易罪入狱 20 年的 Ghislaine Maxwell 有大量交集。
+
+![封面图](./cover.jpg)2013 年 9 月，Justin Brown 是 Maxwell 在曼哈顿上东区豪宅举办鸡尾酒会的座上宾——那场派对，是 Ideapod 的上线发布会。
+
+## 先回顾一下这三兄弟干了什么
+
+本月早些时候，Futurism 发表了一篇历时数月的调查，对象是一家鲜为人知的公司 Brown Brothers Media。这家公司由三兄弟 Justin Brown、Lachlan Brown 和 Brendan Brown 经营，做法是收购陷入困境的在线出版物，把它们改造成 AI 驱动的垃圾内容农场，每月发布数千篇文章，从 Google 等平台攫取海量流量，把不知情的读者推离真正的新闻。
+
+调查发现，这个帝国的成长靠的是极不诚实的手段。在 ChatGPT 发布后，公司几乎解雇了全部写作人员，然后凭空造出大量假记者、假专家和「有共鸣的普通人」，用他们的署名批量生产偷懒的 AI 文章——这些文章常常抄袭自原创报道，或建立在完全编造的「个人经历」之上，或粗制滥造到让人怀疑公司里根本没人读过就发了出去。
+
+这套操作看来相当成功。根据 Futurism 查阅的数据，Brown Brothers Media 的站点网络估计每月吸引约 6400 万次访问。这个流量水平让它跻身 NPR、《华盛顿邮报》这类大型媒体机构所在的量级，也让它成为 AI 垃圾内容时代一类扭曲却引人注目的新媒体权力玩家。
+
+## 报道之后浮出的新事实
+
+报道刊出后，Futurism 又发现了关于这三兄弟的另一个事实，让他们在 AI 和媒体上的活动多了一层奇特的意味：Justin Brown 创办的一家名为 Ideapod 的初创公司——后来被并入 Brown Brothers Media，至今仍在运营——与已故金融家 Jeffrey Epstein 的圈子有过大量联系，尤其是他的长期伙伴 Ghislaine Maxwell。Maxwell 目前正因性交易罪在联邦监狱服刑 20 年，罪名是为这名臭名昭著的性侵犯物色未成年女孩。
+
+面对关于此事的详细提问，Justin 坚决否认与 Epstein 有任何关联。「我与 Jeffrey Epstein 没有任何关系、联系或往来。」他在邮件中写道，「我从未见过 Epstein，也从未与他交流，没有任何商业、财务、社交或其他往来，没有从他那获得资金，也没有去过他的岛。Ideapod 从未收到 Epstein 的资金或投资。」
+
+但谈到 Maxwell 时，他的措辞就谨慎多了。「我不想凭记忆去推测，也不想对十三年前的商业和社交历史做逐条复盘。」他写道，「任何声称或暗示我或 Ideapod 与 Epstein 有关系、曾从他那里获得资金、或知晓甚至参与 Epstein 或 Ghislaine Maxwell 罪行的说法，都是不实的。」
+
+## 2013年那场派对
+
+据 Getty Images 上的一批照片，2013 年 9 月，Justin Brown 是 Maxwell 在曼哈顿上东区那栋数百万美元联排别墅举办的「鸡尾酒会」的座上宾——那栋房子是 Epstein 在 2000 年买给她的。照片中，身穿灰色西装、手拿酒杯的 Justin 与这位社交名媛、后来被定罪的儿童性交易犯合影交谈。活动对外宣传的主办方是「Dom Pérignon & Ghislaine Maxwell」；拥有该香槟品牌的奢侈品集团 LVMH 未回应置评请求。
+
+Justin 出席这场派对，是在 Epstein 因招揽年仅 14 岁的女孩而于 2008 年被定罪多年之后。当时 Epstein 已出狱并被列入性犯罪者登记名单，关于他的认罪协议以及他与 Maxwell 自上世纪 90 年代初就关系密切的新闻，随手一搜就能看到。
+
+Maxwell 办这场酒会，是为了庆祝 Ideapod 上线。这家由 Justin 创办的社交媒体公司，自我定位是促进「正向改变，让每个人都能把有力的想法分享给世界上最有影响力的组织和思想领袖」。Justin 与联合创始人 Mark Bakacs——他也在 2013 年那场派对上，Justin 在 2015 年《Inc》的一篇文章里称他是自己「高中时代最好的朋友」——把 Ideapod 包装成 Facebook、Twitter 之外更有觉悟的竞争者。
+
+## 派对上还有其他客人
+
+2013 年派对的另一位客人是 Katherine Keating，澳大利亚前总理 Paul Keating 的女儿。与 Maxwell 一样，Keating 也与 Epstein 有关联。Epstein 2019 年被捕后，一段 2010 年的视频显示 Keating 出现在 Epstein 的曼哈顿住所，同行的还有当时被称为安德鲁王子的 Andrew Mountbatten-Windsor——Epstein 最臭名昭著的伙伴之一，随着丑闻发酵被剥夺了王室头衔。2025 年美国司法部公布的文件则显示，Keating 曾与 Epstein 及其下属往来友好邮件、协调多次会面，其中一次她在被告知导演伍迪·艾伦（本人也面临儿童性侵指控）喜欢「漂亮女人」之后，提出带自己的妹妹一起去和 Epstein、艾伦吃午饭。
+
+Keating 也参与过 Ideapod。在 Maxwell 办派对前后，初创公司官网的存档页面把她列在团队名单里。她后来宣布为《赫芬顿邮报》做一个「52 集五分钟访谈」系列，由 Global Grind 和 Ideapod 联合发布。派对照片显示她与 Justin、Bakacs 交谈。
+
+同样在 Ideapod 发布会上周旋的还有 Amir Dossal，一位前联合国官员，曾在 Maxwell 的环保慈善机构 TerraMar Project 担任董事。该项目据报募集了 283429 美元，却只发放了 874 美元的资助，还欠 Maxwell 549093 美元借款。2019 年有报道称它正因是否与 Epstein 的性交易网络有关而接受 FBI 调查，随后 TerraMar 突然关停。Dossal 也与 Ideapod 有关，担任其顾问。
+
+派对上还有多位 TerraMar 董事。照片显示 Ariadne Calvo-Platero 在场——她是英国 Beaumont of Whitley 勋爵的女儿，据称是 Maxwell 2011 年的「最好的朋友」，名字出现在 Epstein 那本臭名昭著的「小黑皮书」里；还有律师兼制片人 Steven Haft（作品包括《死亡诗社》）；以及帕劳前驻联合国大使 Stuart Beck（2016 年去世）。有一张照片里，Calvo-Platero、Dossal、Justin 和 Bakacs 四人正在一起社交。Calvo-Platero 和 Haft 均未回应置评请求。
+
+## 派对之后：持续多年的公开支持
+
+派对之后，Justin 在社交媒体上反复为 Maxwell 和她的项目宣传。2013 年 12 月，他在 Twitter 上分享了她当年的 TED 演讲《Sea Hope, Sea Change, Sea Future》，并 @ 了 TerraMar。2014 年 2 月，他发推说自己「刚刚在 TerraMar Project 签下了『我爱海洋』承诺」。
+
+几天后，他分享了一个 Ideapod 页面，标题是《进一步了解 Ghislaine Maxwell》（该页面后来被删除，似乎也没有存档版本），再次 @ 了 TerraMar。他整晚持续发布 TerraMar 相关内容，其中一条分享了 Maxwell 坐在联合国某间会议室里的照片。
+
+「TerraMar Project 的 Ghislaine Maxwell 由 Amir Dossal 亲切介绍。」Justin 写道，「两位了不起的行动者。cc Ideapod。」
+
+2014 年 3 月，Ideapod 的 Instagram 发布了另一场派对的照片，这位未来的性交易罪犯穿着虎纹外套，笑着与公司创始人合影。一位同样在场的客人告诉 Futurism，照片拍摄于 Ideapod 当时在纽约的办公室。初创公司发布的另一张照片里，Bakacs 和 Justin 正与 Keating 一起大笑。
+
+接下来的 4 月，Ideapod 在 Instagram 上发布了 Justin 与 Maxwell 的一张咧嘴自拍，Maxwell 微微笑着，眼睛藏在巨大的墨镜后面。「Ideapod 在联合国聚会。」配文写道，再次 @ 了 TerraMar。多年后有评论者补了一句：「嗯，这条内容发得像牛奶一样馊了。」
+
+几周后的 2014 年 5 月，Maxwell 出现在 Katherine Keating 的一档访谈中，节目显眼地标注「由 Ideapod 联合呈现」。这似乎正是 Keating 提到的 Ideapod 与《赫芬顿邮报》的合作——她当时是该报的特约编辑，报纸也刊发了这次对谈的一个版本。访谈结尾的字幕写道：「来 Ideapod 继续讨论。」
+
+《赫芬顿邮报》（后更名为 HuffPost 并被 BuzzFeed 收购）的发言人淡化了这段视频，称 Keating 从未成为正式员工，也未因此获得报酬。Keating 在给 Futurism 的声明中说，那次访谈由 Ideapod 赞助，Justin 把她介绍给了 Maxwell，而她与 Ideapod 的唯一关系就是这项赞助；对于 2013 年 9 月的平台发布会，是 Ideapod 的创始人把她介绍给 Maxwell、请她就 TerraMar 宣称的海洋保护工作做一次采访，「我与 Maxwell 的往来仅限于那次采访和发布会，除此之外没有其他来往或持续关系，当时也不知道她与 Epstein 的关系。」
+
+## 到处找钱：从Indiegogo到Branson的岛
+
+Ideapod 似乎一直没找到稳定的商业模式。多年来它在「大想法人士的社交网络」、一个从未落地的搜索引擎、「Ideapod Academy」，甚至一位巴西萨满 Rudá Iandê 开设的 16 周课程之间反复摇摆，还办过线下「沙龙」，让用户见面讨论虚拟现实之类的话题。
+
+缺钱的迹象很快出现。2014 年，Ideapod 在 Indiegogo 上众筹，号称要做「Medium 遇上 Twitter 遇上 TED」，最终只筹到 53613 美元。据当时一名 Ideapod 员工说，Justin 曾给员工发邮件，要求在 Maxwell 的派对上接触来宾，让他们「知道我们正在融资，正在寻找认同这一愿景的合适伙伴」。
+
+「Ghislaine 提出可以继续在她家举办 Ideapod 活动，我们正在探索壮大早期用户社区的最佳方式。」Justin 在邮件里写道。
+
+同样在 2014 年，Ideapod 还向另一位与 Epstein、Maxwell 有长期关系的人物寻求融资：维珍集团创始人 Richard Branson。Branson 曾给这名被定罪的性犯罪者发邮件，鼓励他「把你的后宫带来！」。他也出现在 TerraMar 的版图里——《纽约时报》称他被列为该项目的「创始公民」，他还曾在一则已被删除的脸书帖子中称赞 TerraMar。Branson 的发言人告诉 Futurism，这位大亨在 TerraMar 没有任何职务。
+
+正如 Justin 后来在《福布斯》中写的，他和联合创始人 Bakacs 飞往了 Branson 在英属维尔京群岛拥有的内克尔岛——直线距离约 34 英里外就是 Epstein 那座臭名昭著的私人岛小圣詹姆斯岛，两位相邻的亿万富翁有时会互相拜访。Justin 在文中回忆，他们当时现金紧张，但「还是拼命筹到了更多资金」，最终「见到了四位新投资人，Branson 还为我们写了这篇博客，让这趟行程大获成功」。
+
+Branson 的发言人说，他是在一场第三方主办、邀请他演讲的创业者活动上认识 Ideapod 创始人的，之后被「提供了入股机会，但他没有投资，也没有提供任何资金」。关于 Epstein，发言人表示任何接触「都发生在 12 年多前的极少数场合，且限于群体或商务场合」，当 Epstein 提出捐款时，Branson 夫妇要求团队做尽职调查，结果发现了严重指控，因此 Virgin Unite 没有接受捐款，此后双方决定不再见面或交谈。
+
+## 从Ideapod到AI垃圾帝国
+
+Justin 与加勒比海的故事还没完。正如 Futurism 在前一篇报道中提到的，他和兄弟们如今还与一家名为 Cognitive AI Systems Limited 的 AI 公司有关，该公司注册在英属维尔京群岛。
+
+2015 年，Justin 和 Bakacs 离开纽约，到洛杉矶继续做 Ideapod。据 Bakacs 的领英资料，他到次年就退出了这家公司，Ideapod 则转型为一家数字出版商。Justin 在 2018 年 1 月的一则脸书帖子里写道，18 个月前 Ideapod「陷入了严重困境」，最终完成了一次「转型」，实现正向现金流，并建起一个分发网络，使 Ideapod 成为「全球流量最高的媒体网络之一」。他把这条路归功于萨满 Rudá Iandê 的指引：「Rudá 不是假大师。」
+
+Ideapod 对媒体行业确实留下了持久影响，因为它是 Brown Brothers Media 的前身。Ideapod 很早就把 Justin 的兄弟们拉了进来：2014 年，他的兄弟 Brendan 的公司 The Expert Editor 为 Ideapod 上「最佳想法」设了 1000 美元奖金，评委正是出席 Maxwell 派对、与 Ideapod 有关的 Keating 和 Dossal。到 2017 年，Lachlan 已在 Ideapod 与 Justin 共事，最终被列为该站主编。
+
+2020 年，他们把旗下所有站点合并成一家公司：Brown Brothers Media，如今把 Ideapod 作为整个企业的基石之一展示。「Justin 联合创办了数字媒体平台 Ideapod，在想法与受众的交汇处深耕了十年。」公司的企业主页这样写道，「当我们在同一个屋顶下汇聚这些经验时，模式就很清楚了：收购那些长期拥有专业性和权威性的出版物，然后投资它们。」
+
+Ideapod 至今仍列在 Brown Brothers Media 的投资组合中，网站也仍在运营，设计古怪到会把鼠标指针换成一颗涌动的紫色球体。它早已放弃社交网络或搜索引擎的野心，像这个网络里的其他站点一样，发布大量关于心理学和财经的垃圾 AI 文章。今年 5 月，在 Futurism 开始向与 Brown Brothers Media 相关的人士求证之后，Ideapod 是突然开始删除假作者及其署名内容的众多站点之一，在没有告知读者的情况下抹掉了自己不诚实的证据。
+
+直到今年 2 月，Ideapod 的「关于」页面还解释说主编是一位名叫「Theo Arden」的男性，称其「认知心理学背景」塑造了该刊对心理学和人类行为的报道方式。但 Arden 又是一个完全凭空捏造的 Brown Brothers Media 人设——造得如此敷衍，以至于他在站内那张 AI 生成的头像里，两根拇指以不可能的方式交叉在一起；而在他署名的许多文章中，他甚至以完全不同的另一张 AI 生成面孔出现。
+
+## 「不研究」和「不在乎」
+
+很难说 Ideapod 与 Maxwell 及其他与 Epstein 有关人士的这些牵连，究竟能说明 Brown Brothers Media 当下的所作所为是什么。
+
+但至少可以确定一点：Justin 要么没有对 Maxwell 及其伙伴做最基本的背景调查、去发现他们与一名臭名昭著的性罪犯之间令人不安的关系；要么他查了，只是不在意。无论哪种情况，这份不在意都颇能说明问题。
+
+过去几年，Brown Brothers Media 在搭建它的 AI 帝国时，给收购来的网站塞满了高尚的说辞，说自己「记录塑造我们生活的各种系统」，为「塑造我们如何思考、沟通和生活的议题带来清晰、洞见与深度」。而现实是，它一边说着这些矫饰的话，一边用根本不存在的记者填满这些网站，把他们当木偶一样挂上垃圾级内容的署名。
+
+这很难不让人联想到 Justin 当年对 Maxwell 的连声称赞、以及对她人脉的精打细算——一边承诺 Ideapod 会「以难以想象的方式改善我们的世界」，一边刻意不去注意整个圈子里那股腐烂的味道。

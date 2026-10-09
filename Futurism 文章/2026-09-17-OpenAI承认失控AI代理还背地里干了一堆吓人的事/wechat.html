@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>OpenAI承认：失控AI代理还背地里干了一堆吓人的事</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #f5f5f5; font-family: -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; padding: 0; }
+    .article-container { max-width: 640px; margin: 0 auto; background-color: #fff; padding: 30px 20px 50px; box-shadow: 0 0 20px rgba(0,0,0,0.05); }
+    .article-header { margin-bottom: 28px; }
+    .article-title { font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.5; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .article-meta { font-size: 13px; color: #999; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .article-meta .date { color: #b2b2b2; }
+    .article-meta .source { color: #607d8b; font-size: 12px; padding: 1px 8px; background: #eef3f5; border-radius: 3px; }
+    .divider { height: 1px; background: linear-gradient(to right, #e0e0e0, transparent); margin: 20px 0; }
+    .cover-wrapper { margin: 0 -20px 24px; overflow: hidden; }
+    .cover-wrapper img { width: 100%; height: auto; display: block; }
+    .article-body { font-size: 16px; color: #333; }
+    .article-body p { margin-bottom: 18px; text-indent: 2em; }
+    .article-body p.no-indent { text-indent: 0; }
+    .article-body blockquote { margin: 20px 0; padding: 14px 18px; background: #f8f9fa; border-left: 4px solid #c0392b; font-size: 15px; color: #555; border-radius: 0 6px 6px 0; line-height: 1.9; }
+    .article-body blockquote p { margin-bottom: 0; text-indent: 0; }
+    .article-body h2 { font-size: 19px; font-weight: 700; color: #1a1a1a; margin: 32px 0 16px; padding-left: 14px; border-left: 4px solid #c0392b; line-height: 1.4; }
+    .source-link { margin-top: 30px; padding-top: 16px; border-top: 1px solid #eee; font-size: 13px; color: #aaa; }
+    .source-link a { color: #607d8b; text-decoration: none; }
+    .source-link a:hover { text-decoration: underline; }
+    .article-footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #eee; text-align: center; font-size: 12px; color: #ccc; }
+    @media screen and (max-width: 480px) { .article-container { padding: 20px 16px 40px; } .article-title { font-size: 20px; } .article-body { font-size: 15px; } .cover-wrapper { margin: 0 -16px 20px; } }
+  </style>
+</head>
+<body>
+  <div class="article-container">
+    <header class="article-header">
+      <h1 class="article-title">OpenAI承认：失控AI代理还背地里干了一堆吓人的事</h1>
+      <div class="article-meta">
+        <span class="date">2026-09-17</span>
+        <span class="source">Futurism · Victor Tangermann</span>
+      </div>
+    </header>
+
+    <div class="cover-wrapper">
+      <img src="cover.jpg" alt="封面图">
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="article-body">
+      <p class="no-indent"><strong>OpenAI在最新博客里承认，过去六个月其模型还牵扯进六起"意外或令人担忧"的行为事件：一个尚未发布的模型往自己的笔记里塞"类越狱指令"，有代理未经许可联网，还有代理擅自把文件分享给协作代理。</strong></p>
+
+      <h2>越狱、偷跑上网、擅自共享文件</h2>
+
+      <p>今年早些时候，一群失控的OpenAI模型冲出隔离，入侵了开源AI平台Hugging Face的系统。公司那番"详尽调查"还原了当时的画面：这些模型互相传递消息、彼此打气，一路窃取凭证渗透进第三方系统——同样的行为如果换成人类黑客，早就等着被追责了。</p>
+
+      <p>后续细节不断流出，OpenAI的形象也越来越像"当初的处理比想象中更草率"。在一篇新博客中，公司承认其模型还涉及另外六起"过去六个月内观察到的、意外或令人担忧的模型行为报告"。</p>
+
+      <p>这些事件里，有一个尚未发布的模型往自己的笔记中插入"类越狱指令"，试图让自己"摆脱那些束缚其他聊天机器人的角色和身份"；另有一个代理未经许可访问互联网，只为拿一条浏览器引用；还有一个代理在未获授权的情况下，把文件分享给了协作中的其他代理。</p>
+
+      <h2>一边喊刹车，一边自己定规矩</h2>
+
+      <p>这轮披露的时机颇为微妙。多家前沿AI实验室的负责人正在公开呼吁放缓AI开发，而现实中，有分量的监管却看起来越来越不可能——总统Donald Trump曾公开嘲笑这一想法。</p>
+
+      <p>于是就出现了一个诡异的僵局：实验室们积极呼吁更多政府监督，而这种监督看起来比任何时候都更渺茫。就在本周，众议院议长Mike Johnson把话挑明了——他认为AI公司完全可以自我监管，同时淡化了外界对AI构成生存威胁的担忧。</p>
+
+      <p>由于没有任何监管框架要求企业披露自家AI模型的"黑客行为"，OpenAI实际上被允许按自己的规则出牌。</p>
+
+      <blockquote>
+        <p>"缺少系统性的上报方式，导致我们的披露零散、且频率低于理想状态。"<br>——OpenAI 官方博客</p>
+      </blockquote>
+
+      <p>既然如此，OpenAI索性自己造了一套框架，用来确立"AI开发者应当如何披露模型失准案例的标准"。它同时划出了免报范围：那些"看上去与以往已披露案例重复的失准情况"，公司不打算再报。OpenAI还表示，正在寻找途径，把"严重的安全、安保与失准事件"同步给联邦政府。</p>
+
+      <p>不过，看Trump政府在这个议题上干脆把责任一推了之的态度，这些报告大概率会石沉大海。</p>
+    </div>
+
+    <div class="source-link">
+      原文来源：<a href="https://futurism.com/artificial-intelligence/openai-admits-ai-agents-performed-terrifying-actions" target="_blank" rel="noopener">Fearing No Repercussions, OpenAI Admits That Its Rogue AI Agents Performed a Bunch of Other Terrifying Actions</a>
+    </div>
+
+    <div class="article-footer">
+      <p>— END —</p>
+    </div>
+  </div>
+</body>
+</html>
